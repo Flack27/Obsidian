@@ -97,7 +97,8 @@
 - [ ] Work to stabilize/contain remaining void rift
 - [ ] Guy decides his path forward after redemption
 - [ ] Deal with Ashen-Shugar fusion consequences
-- [ ] Introduction to the severing hand
+- [ ] Severing hand starts spying on them with clones
+- [ ] Severing Hand First encounter: information gathering and retreat
 
 ### GM Notes
 - Resolution of Guy's character arc (this phase)
@@ -112,8 +113,7 @@
 - [ ] **Phase 2 (Downtime):** Gradual physical transformation and [[Ashen-Shugar Vision 1]]
 - [ ] **Phase 3 (Travel):** Visions more frequent [[Ashen-Shugar Vision 2]] and [[Ashen-Shugar Vision 3]]
 - [ ] **Phase 4 (Arrival Ionia):** [[Ashen-Shugar Vision 4]] right before combat somewhere
-- [ ] **Phase 4 (Chapter 9):** Full possession - "invaders of his world"
-- [ ] **Phase 5 (Chapter 9):** Speaking Valheru, Vastaya terror
-- [ ] **Phase 6 (Ongoing):** Learning to control/coexist
-
+- [ ] **Phase 5 (Travel in Ionia)** [[Ashen-Shugar Vision 5]] and [[Ashen-Shugar Vision 6]] active participant in the visions
+- [ ] **Phae 6 (before prisoners)**: [[Ashen-Shugar Vision 7]] and [[Ashen-Shugar Vision 8]] happen back to back right before prisoners
+- [ ] **Phase 7 (Prisoners):** Losing control [[Ashen-Shugar Fusion]] happens
 ---
