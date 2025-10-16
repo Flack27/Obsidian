@@ -1,3 +1,13 @@
+---
+type: pc
+status: alive
+location: varies
+relationship: party
+importance: major
+character-arc: valheru-fusion
+tags: [ashen-shugar-fusion, valheru-history, marduun-arc, temporal-paradox, physical-transformation]
+---
+
 ### Pc Backstory
 Born in the slums of the trader settlement Marrowmark located in Shurima, Marduun and his family never had it easy. They scraped by with odd jobs from the residents and merchants that came through Marrowmark. His older brother Akuba and him had to work as soon as they could walk or else they were outcast. There was no room for leniency. Every day was worse than the day before, but this was all that Marduun knew. Despite this environment Marduun was relatively happy mostly in thanks to his brother Akuba who always looked out for him and with whom he formed a strong bond.
 

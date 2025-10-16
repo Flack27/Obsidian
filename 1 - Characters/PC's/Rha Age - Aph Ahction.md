@@ -1,3 +1,13 @@
+---
+type: pc
+status: alive
+location: varies
+relationship: party
+importance: major
+character-arc: identity-integration
+tags: [kythara-divided, severing-hand-threat, demon-lore, primal-emotions, dual-consciousness]
+---
+
 ### Pc Backstory
 Algemeen:
 Lang geleden toen de wereld werd geschept door Aurelion sol en dus ook emoties werden geschept werd daarmee ook de Primal emoties geschept. Deze emoties zijn voor de dommere wezens. De meest simpele emoties. Zoals fight or flight. Maar bij een emotie hoort ook een demon. Deze demon had nog geen naam omdat er niks slim genoeg was oom namen te geven. Maar na veel eeuwen kwamen er steeds meer wezens zonder deze Primal emoties. Dit waren de mensen. Mensen waren te stil en te verstandig om deze emotie nog te voelen. Ze hebben het veel te goed voor elkaar om emoties zoals honger te voelen. Dit zorgen ervoor dat er een kleinere demon ontstond die alleen om de primal emoties hunt. De meeste wezens die deze emoties hebben zijn animals en monster. Daarom bleef deze demon maar in de bossen om achter dommere wezen aan te gaan.

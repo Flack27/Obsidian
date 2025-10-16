@@ -1,3 +1,13 @@
+---
+type: pc
+status: alive
+location: varies
+relationship: party
+importance: major
+character-arc: redemption-seeker
+tags: [bard-intervention, temporal-paradox, bennar-chime, anita-connection, noxian-deserter]
+---
+
 ### Pc Backstory
 Amdry Brackstom was born in Noxus to a relatively modest family known for their masonry and craftsmanship. He had many brothers and sisters, most of whom joined the Warmasons guild. However, Amdry had been enamoured by the pounding of leather and the melody of steel-on-steel since an early age. He joined the military enrolment program and trained until his resolve was strong and his will unbreakable. Eventually Amdry became a Wardrummer, an often overlooked and mocked profession, but Amdry revelled in it.
 Amdry lived the life of a devout soldier in the Noxian military. Drummers are the voice with which the empire inspires its warriors and intimidates its foes, and as such must truly embody and believe Noxus’s values. Strength above all; every soldier worth their weight; through war we create unity and prosperity. The only thing of note that does not conform to the stereotypical ideal of a Noxian soldier was Amdry’s obsession with history and what we can learn from our past. He would have discussions with anyone willing to lend an ear and he incorporated much of his findings in his frontline speeches.

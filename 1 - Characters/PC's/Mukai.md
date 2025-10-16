@@ -1,3 +1,13 @@
+---
+type: pc
+status: alive
+location: varies
+relationship: party
+importance: major
+character-arc: corruption-struggle
+tags: [forbidden-arts, severing-hand-threat, mukai-backstory, emotional-manipulation, master-shun]
+---
+
 ### Pc Backstory
 Mukai grew up in a mountain village in the north-east of Ionia. His life was simple and quaint, and he hated every second of it. He grew bored of working in the farms with his father, and longed for excitement. When an old martial artist named Master Shun traveled through his village looking for pupils, Mukai discovered something worth living for: the thrill of battle. Without hesitation, he left his old village behind as Master Shun took him in.
 
