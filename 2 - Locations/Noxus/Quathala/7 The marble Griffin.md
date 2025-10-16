@@ -4,7 +4,7 @@ region: Noxus
 sub-region: Quathala
 importance: minor
 act-focus: 1
-status: struggling
+status: thriving
 parent-location: "[[Quathala Overview]]"
-tags: [merchant, economic-decline, commoner-unrest, act1-focus]
+tags: [social-encounter, wealthy-district, act1-focus, information-source]
 ---

@@ -1,10 +1,13 @@
-## Quick Reference
-
-**Status:** Alive (wandering) 
-**Location:** [[Shurima]] (encountered in Act 3/4)
-**Relationship:** Chaotic Ally (comic relief, mysterious helper) 
-**Key Trait:** Eccentric gambler who insists magic is just tricks
-
+---
+type: npc
+status: alive
+location: Shurima
+relationship: chaotic-ally
+importance: supporting
+act-introduced: 3-4
+character-arc: mysterious-helper
+tags: [comic-relief, mysterious-wanderer, ancient-knowledge, shuriman-guide, orange-philosophy, gambling-chaos, act3-focus, valheru-knowledge]
+---
 ## Background
 
 Nakor is an enigmatic Shuriman wanderer who has traveled the world for longer than most can remember. He is a gambler, a cheat, a philosopher, and a magician of considerable power—though he adamantly insists there is no such thing as magic, only tricks. He left his homeland young after encountering a street magician performing sleight-of-hand, and has been wandering ever since, studying what he calls "the stuff" that makes up the universe. His revolutionary ideas about magic have made him both beloved and reviled by traditional mages.

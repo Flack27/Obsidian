@@ -4,7 +4,11 @@ region: Noxus
 sub-region: Quathala
 importance: minor
 act-focus: 1
-status: struggling
+status: abandoned
 parent-location: "[[Quathala Overview]]"
-tags: [merchant, economic-decline, commoner-unrest, act1-focus]
+tags:
+  - political-intrigue
+  - roderick-failure
+  - military-decline
+  - act1-focus
 ---

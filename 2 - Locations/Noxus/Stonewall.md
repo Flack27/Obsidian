@@ -1,3 +1,13 @@
+---
+type: location
+region: Noxus
+sub-region: Quathala
+importance: major
+act-focus: 1
+status: abandoned-then-reclaimed
+tags: [party-base, void-corruption, celesta-deception, act1-focus, shuriman-heritage, kethvyss-portal]
+---
+
 ## Description
 
 Stonewall was a peaceful farming village with predominantly Shuriman heritage. The village was built around an ancient stone altar that the villagers believed protected them through their local deity "Keth'var the Protector." Since the Noxian expansion, the village falls under Noxus, but the inhabitants have retained their Shuriman traditions. Now the village stands abandoned after a terrifying night when Void creatures emerged from the altar.

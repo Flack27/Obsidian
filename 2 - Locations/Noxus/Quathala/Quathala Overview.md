@@ -20,7 +20,7 @@ Quathala is the seat of Baron [[Roderick Voss]]'s domain, a once-prosperous Noxi
 
 **[[9 The Crafters' Quarter]]** - Industrial area outside city walls where marble is cut and beautification materials are processed
 
-**[[10 Baron's Manor]]** - Roderick's residence where Matthias pulls the strings behind closed doors
+**[[10 Duke's Manor]]** - Roderick's residence where Matthias pulls the strings behind closed doors
 ## Current Situation
 
 - **Beautification Obsession:** Marble construction and canal projects bankrupting the treasury while citizens struggle with high taxes
