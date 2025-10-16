@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "1526842903fd30a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7cbf5f87b9bdebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729e4e7335bccf4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Lore/History/Guy and Borric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guy and Borric"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "423168931dd864aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c79213b635bf233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a12de588d8c091",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d15274f9bbd76a9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a1f288619fd67d9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99e2152de1033ee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "84383c57c97470ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b1494b74bce99c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Lore/History/Guy and Borric.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Guy and Borric"
+            }
+          },
+          {
+            "id": "520eeba5e0e9e9ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "0f46e6ee283f84ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0be6a98c60092ced",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "729e4e7335bccf4d",
+  "lastOpenFiles": [
+    "1 - Characters/NPC's/Noxus/Roderick Voss.md",
+    "1 - Characters/NPC's/Noxus/Matthias Cray.md",
+    "1 - Characters/NPC's/Important/Guy du Bas-Tyra.md",
+    "2 - Locations/Noxus/Stonewall.md",
+    "2 - Locations/Noxus/Quathala/Quathala Overview.md",
+    "Quathala.md",
+    "0 - Dashboard/Act 1 - Stonewall.md",
+    "1 - Characters/PC's/Bennar Weivand.md",
+    "5 - Resources/Maps/Quathala.png",
+    "Untitled.base",
+    "1 - Characters/NPC's/Random NPC ideas.md",
+    "4 - Sessions/Session 0.md",
+    "5 - Resources/Maps/Stonewall.ds.crswap",
+    "5 - Resources/Maps/Stonewall.ds",
+    "3 - Lore/Events/Chaos War.md",
+    "1 - Characters/Organizations/Mockers.md",
+    "1 - Characters/NPC's/Noxus/Rhuagh.md",
+    "5 - Resources/Book References/Ashen-Shugar Fusion.md",
+    "5 - Resources/Book References/Guy Explanation.md",
+    "5 - Resources/Book References/Murmandamus Speech.md",
+    "2 - Locations/Noxus/Quathala/10 Baron's Manor.md",
+    "2 - Locations/Noxus/Quathala/6 The Old Market.md",
+    "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
+    "3 - Lore/History/Valheru.md",
+    "3 - Lore/History/Guy and Borric.md",
+    "3 - Lore/Mysteries/Kythara the Divided.md",
+    "5 - Resources/Maps/Quathala.png.0.pdnSave",
+    "4 - Sessions/Session Template.md",
+    "2 - Locations/Noxus/Quathala",
+    "2 - Locations/Noxus/Immortal Bastion.md",
+    "1 - Characters/NPC's/Noxus/Upright Man.md",
+    "1 - Characters/NPC's/Noxus/Anita conDoin.md",
+    "Untitled.canvas",
+    "1 - Characters/NPC's/Ionia",
+    "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_02_-_Silverthorn.epub",
+    "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_03_-_A_Darkness_at_Sethanon.epub",
+    "5 - Resources/Book References/Raymond_E_Feist_-_Riftwar_02_-_Magician-_Master.epub",
+    "5 - Resources/Book References/Raymond_E_Feist_-_Riftwar_01_-_Magician-_Apprentice.epub"
+  ]
+}
