@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "3 - Lore/History/Guy and Borric.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Guy and Borric"
             }
           },
           {
@@ -180,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "729e4e7335bccf4d",
+  "active": "8f0f85aef314a177",
   "lastOpenFiles": [
     "Untitled 1.base",
     "3 - Lore/History/Guy and Borric.md",
