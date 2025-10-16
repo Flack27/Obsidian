@@ -31,12 +31,11 @@ Deep down he remains a good person who genuinely wants to help his people, but h
 
 ### The Beautiful Vision (Current Obsession)
 
-Roderick has become obsessively focused on transforming [[Quathala]] into "the most beautiful city in Noxus." His grand vision includes covering all building walls with imported marble, creating elaborate gardens alongside every street, and installing a complex canal system flowing through the city. He plans to extend this beautification project to every town and settlement in his domain once Quathala is complete.
+Roderick has become obsessively focused on transforming [[Quathala]] into "the most beautiful city in Noxus." His grand vision includes covering all building walls with marble from his domain's mine at [[Stonewall]], creating elaborate gardens alongside every street, and installing a complex canal system flowing through the city. He plans to extend this beautification project to every town and settlement in his domain once Quathala is complete. The marble from Stonewall's mine is essential to his vision - it's high quality, local (reducing transport costs), and most importantly, it's HIS. The village exists primarily to support the mine operations, and its destruction has temporarily halted his marble supply, causing him considerable distress.
 
 ### Economic Crisis (Current Consequences)
 
-To fund his beautification project, Roderick has dramatically raised taxes across his domain. The citizens grow increasingly restless as their basic needs are ignored in favor of expensive marble and ornamental canals. What should be civic improvements have become a burden that threatens the stability of his rule.
-
+To fund his beautification project, Roderick has dramatically raised taxes across his domain. The citizens grow increasingly restless as their basic needs are ignored in favor of expensive marble and ornamental canals. What should be civic improvements have become a burden that threatens the stability of his rule. The loss of Stonewall's marble production has made this worse.
 ### Military Situation (Current Crisis)
 
 The garrison was legitimately reassigned to the Ionian front during the war's escalation - standard Noxian practice where strength flows where it's needed. Quathala was left with only a skeleton force. This is defensible by Noxian standards, but Matthias manipulates Roderick into NOT requesting reinforcements by convincing him it would show weakness to rivals and that Guy du Bas-Tyra is watching for any sign he can't hold his domain.

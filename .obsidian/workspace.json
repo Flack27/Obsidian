@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg"
+                "file": "5 - Resources/Maps/Stonewall/Stonewall.jpg"
               },
               "icon": "lucide-image",
-              "title": "Ruind Stonewall"
+              "title": "Stonewall"
             }
           }
         ]
@@ -178,15 +178,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c2a12de588d8c091",
+  "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "2 - Locations/Noxus/Stonewall.md",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
+    "1 - Characters/NPC's/Important Supporting/Roderick Voss.md",
+    "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall/Stonewall Reconstruction.pdn",
+    "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "5 - Resources/Maps/Quathala.png",
-    "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
-    "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
     "5 - Resources/Maps/Stonewall",
     "4 - Sessions/Session 0.md",
     "4 - Sessions/Session Template.md",
@@ -212,7 +216,6 @@
     "5 - Resources/Book References/Ashen-Shugar Fusion.md",
     "5 - Resources/Book References/Ashen-Shugar Revelation.md",
     "1 - Characters/NPC's/Random NPC ideas.md",
-    "2 - Locations/Noxus/Quathala/Quathala.md",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
     "Untitled.base",
@@ -221,7 +224,6 @@
     "5 - Resources/Maps/Quathala.png.0.pdnSave",
     "2 - Locations/Noxus/Quathala",
     "Untitled.canvas",
-    "1 - Characters/NPC's/Important Supporting",
-    "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_02_-_Silverthorn.epub"
+    "1 - Characters/NPC's/Important Supporting"
   ]
 }
