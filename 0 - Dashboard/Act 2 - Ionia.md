@@ -17,7 +17,7 @@
 
 ---
 
-## Chapter 8: Guy's Village ✅ / ⏳ / ❌
+## Chapter 8: Guy's Village
 
 ### Critical Path
 - [ ] Scout encounter: Party intercepted by village scouts
@@ -26,6 +26,7 @@
 - [ ] Learn how Guy earned respect as "The Protector"
 - [ ] Ashen-Shugar: More visions and music during peace
 - [ ] Bard Chime resonates strongly as fusion progresses
+- [ ] Last Ashen Shugar vision before prisoners
 
 ### GM Notes
 - Party arrives as strangers/potential threats
@@ -35,7 +36,7 @@
 
 ---
 
-## Chapter 9: The Ancient Rage ✅ / ⏳ / ❌
+## Chapter 9: The Ancient Rage
 
 ### Critical Path
 - [ ] Village captures Murmandamus' scouts/raiders
@@ -53,10 +54,10 @@
 
 ---
 
-## Chapter 10: Murmandamus Siege ✅ / ⏳ / ❌
+## Chapter 10: Murmandamus Siege
 
 ### Critical Path
-- [ ] Murmandamus launches full assault after scouts don't return
+- [ ] Murmandamus launches full assault
 - [ ] Party and Guy form alliance despite tensions
 - [ ] Major battle: void creatures and mind-controlled forces
 - [ ] Defeat Murmandamus
@@ -70,7 +71,7 @@
 
 ---
 
-## Chapter 11: Keth'vyss Encounter ✅ / ⏳ / ❌
+## Chapter 11: Keth'vyss Encounter
 
 ### Critical Path
 - [ ] Track void corruption to ancient Valheru ruins
@@ -90,13 +91,13 @@
 
 ---
 
-## Chapter 12: Resolution ✅ / ⏳ / ❌
+## Chapter 12: Resolution
 
 ### Critical Path
 - [ ] Work to stabilize/contain remaining void rift
 - [ ] Guy decides his path forward after redemption
 - [ ] Deal with Ashen-Shugar fusion consequences
-- [ ] Learn Celesta is manipulating events from afar
+- [ ] Introduction to the severing hand
 
 ### GM Notes
 - Resolution of Guy's character arc (this phase)
@@ -105,50 +106,14 @@
 - Guy may become companion or remain to protect region
 
 ---
-
-## Act 2 Completion Checklist
-
-### Party Achievements
-- [ ] Stopped major void incursion
-- [ ] Defeated Murmandamus
-- [ ] Formed alliance with Guy du Bas-Tyra
-- [ ] Gained insight into Keth'vyss' motivations
-- [ ] Ashen-Shugar fusion advanced significantly
-
-### Party Losses/Concerns
-- [ ] Marduun's humanity questioned after possession
-- [ ] Keth'vyss still loose with dangerous knowledge
-- [ ] Void threats revealed as much larger than expected
-
-### Major Revelations
-- [ ] Guy's genuine capacity for good
-- [ ] Void threats beyond regional politics
-- [ ] Keth'vyss isn't evil, just dangerously misguided
-- [ ] Ancient Valheru sites key to cosmic threats
-
-### Setup for Act 3
-- [ ] Keth'vyss loose with portal knowledge
-- [ ] Celesta using party's actions for agenda
-- [ ] Ashen-Shugar fusion approaching critical point
-- [ ] Portal network connects to Watcher plans
-
----
-
 ## Ashen-Shugar Fusion Progression Tracker
 
-- [ ] **Phase 1 (End Act 1):** First battle rage and visions
-- [ ] **Phase 2 (Downtime):** Gradual physical transformation
-- [ ] **Phase 3 (Travel):** Visions/rage more frequent
+- [ ] **Phase 1 (End Act 1):** First battle rage 
+- [ ] **Phase 2 (Downtime):** Gradual physical transformation and [[Ashen-Shugar Vision 1]]
+- [ ] **Phase 3 (Travel):** Visions more frequent [[Ashen-Shugar Vision 2]] and [[Ashen-Shugar Vision 3]]
+- [ ] **Phase 4 (Arrival Ionia):** [[Ashen-Shugar Vision 4]] right before combat somewhere
 - [ ] **Phase 4 (Chapter 9):** Full possession - "invaders of his world"
 - [ ] **Phase 5 (Chapter 9):** Speaking Valheru, Vastaya terror
 - [ ] **Phase 6 (Ongoing):** Learning to control/coexist
 
 ---
-
-## Quick Status Check
-
-**Chapters Completed:** [ ] / 6
-**Guy's Redemption Arc:** Beginning / In Progress / Resolved
-**Ashen-Shugar Fusion:** Early / Mid / Advanced / Complete
-**Keth'vyss Status:** Not Encountered / Encountered / Escaped
-**Void Threat Level:** Regional / Serious / Cosmic
