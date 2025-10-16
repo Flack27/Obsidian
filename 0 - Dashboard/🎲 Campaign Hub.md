@@ -1,8 +1,8 @@
 ## Current Status
 **Act:** 1 - Stonewall
-**Current Chapter:** [number/6]
+**Current Session:** [[session 1]] 
 **Party Location:** [[Stonewall]] / [[Quathala]] / [[Immortal Bastion]]
-**Last Session:** [[Session X]]
+**Last Session:** [[Session 0]]
 
 ---
 
