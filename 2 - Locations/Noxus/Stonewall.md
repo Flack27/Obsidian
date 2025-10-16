@@ -7,45 +7,134 @@ act-focus: 1
 status: abandoned-then-reclaimed
 tags: [party-base, void-corruption, celesta-deception, act1-focus, shuriman-heritage, kethvyss-portal]
 ---
-
 ## Description
 
-Stonewall was a peaceful farming village with predominantly Shuriman heritage. The village was built around an ancient stone altar that the villagers believed protected them through their local deity "Keth'var the Protector." Since the Noxian expansion, the village falls under Noxus, but the inhabitants have retained their Shuriman traditions. Now the village stands abandoned after a terrifying night when Void creatures emerged from the altar.
+Stonewall was a small riverside village nestled against a mountain, built around a productive marble mine. The village existed primarily to support the mining operations that supplied high-quality marble to [[Roderick Voss]]'s domain, particularly for his beautification projects in [[Quathala]]. With a population of around 150 people, it was a tight-knit community of miners, farmers, and craftspeople. Now the village stands abandoned and partially destroyed after a devastating night when Void creatures emerged, killing most inhabitants and forcing the survivors to flee.
+
+## Pre-Disaster Population & Economy
+
+**Total Population:** ~150 people
+
+**Primary Industry - Marble Mining:**
+- 20 skilled miners working the mountain mine
+- High-quality white/gray marble prized by nobles
+- Supplied Roderick's beautification projects
+- Mining families comprised ~60 people total
+
+**Secondary Industry - Agriculture:**
+- 15 farmers working fertile fields east of the river
+- Subsistence farming with modest surplus for trade
+- Farming families comprised ~50 people total
+
+**Support Services:**
+- Blacksmith (tool repairs, mining equipment)
+- Carpenter (building maintenance, mine supports)
+- Inn/Tavern ("The Miner's Rest")
+- Dock master managing river trade
+- Small merchant operating general store
+- 5 hunters who doubled as town protection
+- Support workers and families: ~30 people
+
+**Trade:** Regular shipments of marble downriver to Quathala, with return goods and supplies.
+
+## The Disaster & Current Status
+
+**The Attack:**
+A Void rift opened beneath the village during the night. Creatures emerged from both the mine's deep tunnels and an ancient shrine passage, catching the sleeping village completely unprepared. Most residents were killed in their homes or in the panicked evacuation. The few who escaped fled into the night with nothing but what they carried.
+
+**Current Survivors:** ~20-21 people
+- **In Quathala:** 5-6 healthy adults who reached safety
+- **Roadside Camp:** ~15 people (families with children, elderly, wounded) hiding in a makeshift camp between Stonewall and Quathala, too afraid or unable to complete the journey
+
+**Casualties:** ~130 people killed or missing
+- **Confirmed Dead:** Mayor (killed in initial attack), Ship Captain (died defending the docks)
 
 ## Notable Locations
 
-**The Ancient Altar** A massive stone structure in the village center, originally dedicated to the Ascended [[Keth'vyss]] but now corrupted. The altar currently stands open and reveals a dark passage leading downward. [[Celesta]] resides here in her recovery state and claims to be the protective deity. Void creatures still occasionally emerge from the depths.
+**The Marble Mine**
+A massive operation carved into the mountainside, Stonewall's economic heart. 
 
-**Abandoned Homes** Small farming houses scattered around the village center, hastily abandoned during the evacuation. Personal belongings still lie scattered, and some houses show signs of Void corruption. Perfect for setting up a party base once they are cleared.
+**River Dock**
+Small but functional dock on the river where marble was loaded for transport to Quathala. [[Amos Trask]]'s damaged ship arrived here just hours before the party, now burning at the dock.
 
-**The Old Mill** A windmill on a small hill overlooking the village. It offers a good vantage point for observing the surroundings and could serve as a watchtower for the party's future operations.
+**Residential District**
+Scattered houses, most damaged or destroyed. Personal belongings lie abandoned. The eastern section near the farms is in better condition than the western section near the mine.
 
-**The Shrine Path** A stone path leading from the village entrance directly to the altar, lined with small offering stones. The villagers used this route for their daily prayers and offerings to "Keth'var."
+**Agricultural Fields**
+Fertile farmland on the eastern riverbank, now overgrown but salvageable. Includes small orchards and vegetable plots.
 
-## Current Situation
+**The Ancient Shrine**
+Hidden in the forest west of the river, accessible by an overgrown path. An ancient Shuriman shrine carved directly into the mountainside, featuring weathered reliefs of a warrior figure with portal imagery. A small offering table sits before the carved entrance. 
 
-**Void Corruption**
+The shrine was mostly forgotten except by village elders who occasionally left offerings. Inside, a passage leads deep into the mountain - the same passages the Void creatures used to reach the surface. The shrine entrance is sealed and can only be opened by speaking the pass phrase: **"Nehg-moh-lee"** (Ancient Shuriman ).
 
-- Dark energy seeps from the opened altar into the environment
-- Strange creatures occasionally emerge and require constant vigilance
-- The corruption spreads slowly but can be contained with effort
+**Current Void Corruption**
+- Dark energy pulses from the sealed shrine
+- The corruption spreads slowly but steadily
+- Village center heavily affected, outer areas less so
 
-**[[Celesta]]'s Presence**
+## Survivors
 
-- She has claimed the altar as her domain and recovery sanctuary
-- Presents herself as the village's protective deity seeking help
-- Uses the abandoned offerings from the villagers and all items the party brings for her restoration
+**In Quathala (5-6 people):**
 
-**Cultural Legacy**
+**Torren Veynar** - Former Second-in-Command at the mine
+- Age: 45, Male, Noxian
+- Practical and level-headed, knows the mine layout intimately
+- Reluctant to return initially ("Too dangerous"), but could be convinced
+- Essential for reopening mining operations
+- Lost his younger brother in the attack
 
-- Shuriman artifacts and texts are left behind in the houses, valuable for research
-- Traditional Shuriman farming techniques had made the land fertile
-- Ancient family shrines in homes show devotion to Shuriman ancestors
+**Mira Ashwood** - Inn keeper's daughter
+- Age: 23, Female, Noxian
+- Helped her father run The Miner's Rest
+- Father killed in the attack
+- Willing to return if others do, wants to rebuild
+- Has some medical knowledge (helped patch up survivors)
 
-**Future Potential**
+**Henrik Stonewright** - Village Carpenter
+- Age: 38, Male, Noxian
+- Fled with his 12-year-old daughter **Lysa**
+- Wife **Amara** (Shuriman heritage) killed in attack
+- Lysa is slightly darker-skinned, inheriting her mother's coloring
+- Currently grieving and unwilling to return
+- **Personal Quest:** Retrieve Amara's necklace (family heirloom from her Shuriman grandmother) from their home
+- Will consider returning only after this is done and if the party asks him directly
 
-- With cleanup and protection, it could become an ideal party stronghold
-- Central location for regional operations and investigation
-- Rich farmland could support future settlement growth
-- The altar could possibly be purified or at least contained
-- The Shuriman heritage could attract new settlers who respect the culture
+**Lysa Stonewright** - Henrik's Daughter
+- Age: 12, Female, Mixed heritage (Noxian/Shuriman)
+- In shock, barely speaking
+- Clutches her mother's shawl constantly
+- Needs her father to feel safe
+
+**2 Additional Survivors** - Farmers or miners, unnamed, varying willingness to return
+
+**At Roadside Camp (~15 people):**
+
+**Old Perrin** - Village Elder
+- Age: 72, Male, Noxian with Shuriman knowledge
+- One of the few who knew about the shrine
+- Too frail for combat but invaluable for information
+- Knows the pass phrase but hasn't visited the shrine in years
+
+**Joren Blackwood** - Young Hunter
+- Age: 19, Male, Noxian
+- Son of the town's lead hunter (killed in attack)
+- Wounded during escape
+- Angry and determined despite injury
+- **Willing to return immediately** - wants revenge
+- Knows the forests around Stonewall well
+- The only surviving member of the town's hunters/protection
+
+**Essa Forthwind** - Farmer's Wife
+- Age: 52, Female, Noxian
+- Husband killed, traveling with her adult son
+- Exhausted and traumatized
+- Wants safety more than anything
+- Will return only if genuinely safe
+
+**Remaining ~10 people** - Mix of elderly, children, wounded
+- Families who stuck together during flight
+- Too traumatized, injured, or young to have strong opinions
+- Will follow wherever the majority decides to go
+- Need convincing that anywhere is safe
+

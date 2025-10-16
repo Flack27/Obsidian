@@ -11,11 +11,13 @@
             "id": "729e4e7335bccf4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5 - Resources/Maps/Stonewall/Stonewall.jpg"
+                "file": "2 - Locations/Noxus/Stonewall.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
+              "icon": "lucide-file",
               "title": "Stonewall"
             }
           }
@@ -180,8 +182,8 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
-    "2 - Locations/Noxus/Stonewall.md",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
+    "2 - Locations/Noxus/Stonewall.md",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
     "1 - Characters/NPC's/Important Supporting/Roderick Voss.md",
     "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg",
@@ -215,7 +217,6 @@
     "5 - Resources/Book References/Ashen-Shugar Vision 1.md",
     "5 - Resources/Book References/Ashen-Shugar Fusion.md",
     "5 - Resources/Book References/Ashen-Shugar Revelation.md",
-    "1 - Characters/NPC's/Random NPC ideas.md",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
     "Untitled.base",
