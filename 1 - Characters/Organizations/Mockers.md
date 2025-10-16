@@ -1,0 +1,1 @@
+Heavily inspired by Raymond E. Feist series will be a criminal organization in noxus led by the [[Upright Man]]

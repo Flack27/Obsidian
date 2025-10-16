@@ -1,9 +1,0 @@
-TOMAS STOOD WITH his back pressed against the wall of the passage. He smiled, a cruel and terrible smile. His eyes were wide, whites vivid around pale blue irises. His body was nearly rigid as he stood motionless. His fingers clenched and unclenched on the hilt of his sword of white and gold.
-
-Images shimmered before his eyes: tall, graceful people who rode on the backs of dragons and lived in halls deep in the earth. Music could be faintly heard in his mind’s ear, and strange tongues. The long-dead race called to him, a mighty race who had fashioned this armor, never meant for human use.
-
-More and more the visions came. He could keep his mind free of them most times, but when he felt the battle lust rise, as it did now, the images took on dimension, color, and sound. He would strain to hear the words. They came faintly, and he could almost understand them.
-
-Tomas ran easily, but his mind reeled with images. In the heat of battle they assaulted him, more vivid and clear than before. He could see the bodies of his fallen enemies, yet they looked nothing like the Tsurani. He could taste the blood of the fallen, the magic energies that came with him as he drank from their open wounds in the ceremony of victory. He shook his head to clear the images. What ceremony? he wondered.
-
-Six years of fighting had given Tomas a strange counterpoint to the dreams that still troubled his sleep. When the battle rage took him, he existed in another’s dreams. When he was away from the elven forest, the call to enter those dreams became ever more difficult to stem. He felt no fear of these visitations, as he had at first. He was more than human because of some long-dead being’s dreams. There were powers within him, powers that he could use, and they were now part of him, as they had been part of the wearer of the white and gold. He knew that he would never be Tomas of Crydee again, but what was he becoming…?
