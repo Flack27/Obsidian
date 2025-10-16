@@ -1,29 +1,25 @@
 ## Quick Reference
 
-**Status:** Alive (working as Guy's agent)
-**Location:** [[Quathala Overview]] (manipulating Baron Roderick)
-**Relationship:** Enemy (irritating schemer)
-**Key Trait:** Slimy manipulator pretending to be loyal advisor
+**Status:** Alive (promoted to secret police captain)
+**Location:** [[Quathala Overview]] → [[Immortal Bastion]]
+**Relationship:** Enemy (cruel opportunist)
+**Key Trait:** Slimy manipulator who becomes dangerously overzealous with power
 
 ## Background
 
-Matthias Cray is an advisor who works as [[Guy du Bas-Tyra]]'s agent to destabilize [[Quathala Overview]] and make it vulnerable to Guy's takeover. He presents himself as Baron [[Roderick Voss]]'s "trusted" advisor, but manipulates the Baron's paranoia and poor judgment to ensure the region appears weak and mismanaged. His goal is to make Guy's "stabilization" seem both necessary and legitimate.
+Matthias Cray is an advisor who works as [[Guy du Bas-Tyra]]'s agent to destabilize [[Quathala Overview]] and make it vulnerable to Guy's takeover. He presents himself as Baron [[Roderick Voss]]'s "trusted" advisor, but manipulates the Baron's paranoia and poor judgment to ensure the region appears weak and mismanaged. After successfully completing his mission in Quathala, Guy promotes him and brings him to the Immortal Bastion as captain of his secret police.
 
 ## Appearance & Mannerisms
 
 - **Age:** 35 years old
 - **Race:** Human (Noxian commoner)
 - **Appearance:** Sharp features with a thin smile that never reaches his eyes
-- **Speech Pattern:** Honey-sweet words and false concern, often uses "my lord" and "very clever, my lord"
-- **Notable Features:** Slimy smile and calculating eyes that never miss an opportunity
+- **Speech Pattern:** Honey-sweet words when manipulating, cold and cruel when in power
+- **Notable Features:** Slimy smile that becomes a cruel sneer when he has authority
 
 ## Campaign Story
 
-### Manipulation Phase (Current)
-
-Triggers Roderick's paranoia, ensures he makes terrible decisions while keeping them technically legal
-
-### The Military Advice (Ongoing)
+### The Military Advice (Chapter 1-2)
 
 Convinces Roderick NOT to request reinforcements:
 - "Requesting troops shows weakness to the capital"
@@ -33,43 +29,89 @@ Convinces Roderick NOT to request reinforcements:
 
 ### Stonewall Scheme (Chapter 1-2)
 
-Probably suggested hiring "outsiders" rather than requesting military aid - makes Roderick look weak while keeping him compliant with Noxian law
+Suggested hiring "outsiders" rather than requesting military aid - makes Roderick look weak while keeping him compliant with Noxian law
 
 ### The Deed Encouragement (Chapter 2)
 
 When Roderick has idea to give party the village deed instead of paying, Matthias encourages: "Very clever, my lord - reward their service without depleting the treasury!"
 
-### Exposed (Potential)
+### Promotion and Departure (Chapter 3)
 
-Party may discover his true allegiance to Guy
+After successfully destabilizing Quathala, Guy rewards Matthias with promotion to captain of his secret police and brings him to the Immortal Bastion
 
-## Manipulation Methods
+### Left in Command (Chapter 5)
 
-- Constantly reminds Roderick that rivals are watching
-- Suggests everyone wants to see him fail
-- Makes requesting help seem like weakness
+When Guy must leave the Immortal Bastion to crush a rebellion in the west, he takes his military commanders like [[Armand de Sevigny]] with him but leaves Matthias in charge of finding and capturing [[Anita conDoin]] even tho he might note be perfectly fit for the role.
+
+### The Overzealous Captain (Chapter 5)
+
+With Guy gone and power in his hands, Matthias becomes dangerously overzealous:
+- Hunts Anita and the party through the capital streets
+- Uses brutal tactics and secret police methods
+- Makes decisions beyond his authority in his panic to succeed
+- Creates the brutal chase sequences that force the party underground
+
+### Death or Defeat (Chapter 6)
+
+Either dies during the party's escape or survives but loses everything when Swain's coup succeeds
+
+## Character Arc
+
+### Phase 1 - The Manipulator (Quathala)
+- Plays the loyal advisor
+- Subtle psychological manipulation
+- Technically stays within legal bounds
+- Master of false concern and honey words
+
+### Phase 2 - The Ambitious Servant (Immortal Bastion)
+- Rewarded for success
+- Given authority over secret police
+- Still serving Guy's plans
+- Begins showing his cruel nature
+
+### Phase 3 - The Overzealous Tyrant (Guy's Absence)
+- Left in charge of finding Anita
+- Panics when party helps her escape
+- Becomes brutal and excessive
+- Makes terrible decisions trying to prove himself
+- His cruelty exceeds even Guy's methods
+## Secret Police Methods (Immortal Bastion Phase)
+
+**The Hunt:**
+- Organizes systematic search for Anita
+- Uses informants and surveillance
+- Brutal interrogation methods
+- Street battles and chases
+
+**Overzealous Decisions:**
+- Exceeds Guy's instructions in his panic
+- Uses excessive force to capture party
+- Makes decisions without authority
+- Prioritizes success over restraint
+
+**The Contrast:**
+- His brutality makes Guy look reasonable
+- Shows what happens when ambition exceeds competence
+- Demonstrates the danger of giving power to schemers
+- Makes party hate him more than Guy
 
 ## Lore & Connections
 
-- [[Guy du Bas-Tyra]] - His true master and employer
-- [[Roderick Voss]] - The Baron he's manipulating
-- [[Quathala Overview]] - The region he's helping destabilize
-- [[Stonewall]] - Irrelevant to the larger plan, but he plays along
+- [[Guy du Bas-Tyra]] - His master and patron
+- [[Roderick Voss]] - The Baron he manipulated
+- [[Quathala Overview]] - Where he earned his promotion
+- [[Anita conDoin]] - His target at the Immortal Bastion
+- [[Armand de Sevigny]] - The honorable captain who goes with Guy (contrast to Matthias)
+- [[Erlind conDoin]] - May be involved in his imprisonment decisions
+- [[Immortal Bastion]] - Where his cruelty is unleashed
+- [[Mockers]] - The criminal organization that helps party escape him
 
 ## GM Notes
 
-**Simple Schemer:** He's not a complex villain - just an opportunist doing Guy's dirty work. Not particularly dangerous by himself, just irritating.
+**Character Evolution:** Matthias transforms from manipulative advisor to brutal secret police captain, showing how power corrupts opportunists. In Quathala he was slimy but subtle; at the Bastion he becomes openly cruel.
 
-**Guy's Tool:** Guy sees him as useful but replaceable. Matthias knows this and is careful to stay valuable.
-
-**Stonewall Irrelevance:** Matthias doesn't care about the village deed - it was never part of Guy's plan. He just encourages Roderick's "clever" idea because it shows poor judgment.
-
-**The Real Goal:** Make Roderick appear weak and incompetent without making him openly rebellious. This lets Guy "stabilize" the region as a concerned neighboring power rather than staging a coup.
-
-**Post-Guy:** When Swain takes over and Guy flees, Matthias loses his patron and becomes irrelevant. He's not important enough to pursue.
-
-**Playing Both Sides:** If confronted, might try to claim he was "protecting Roderick" or "trying to help." He's a survivor who'll say whatever keeps him safe.
+**The Panic Factor:** When the party helps Anita escape, Matthias panics knowing Guy will punish failure. His desperation makes him even more dangerous and cruel.
 
 ---
 
-_Tags: #npc #noxian #manipulator #enemy #guy-agent #quathala #schemer_
+_Tags: #npc #noxian #manipulator #enemy #secret-police #guy-agent #quathala #radburn-role #cruel_

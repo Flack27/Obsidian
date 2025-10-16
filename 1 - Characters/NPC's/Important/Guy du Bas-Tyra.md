@@ -1,13 +1,13 @@
 ## Quick Reference
 
-**Status:** Alive (currently Duke of Basilich) 
-**Location:** Rockrund 
-**Relationship:** Complicated Enemy (noble goals, terrible methods) 
-**Key Trait:** Brilliant tactician
+**Status:** Alive (currently consolidating power in Quathala region)
+**Location:** [[Quathala Overview]] → Immortal Bastion
+**Relationship:** Complicated Enemy (noble goals, terrible methods)
+**Key Trait:** Brilliant tactician who destroys lives for the "greater good"
 
 ## Background
 
-Guy du Bas-Tyra is one of Noxus' most brilliant military tacticians and ambitious noble with genuine intentions to save his homeland from decay. He believes that the costly war with Ionia is destroying Noxus and wants to replace Boram Darkwill as Grand General. His extensive plan: While Darkwill is in Ionia, Erlind has command as highest ranking commander. Guy wants control over the entire south by gaining ownership of Rockrund (already obtained) and Stonewall (via Matthias' manipulation). This would give him control over Quathala, making him the most powerful commander and thereby command over the realm. When the party won't give up Stonewall, he must resort to "force" - he imprisons Roderick and forces him to appoint Guy as Lord Regent of Quathala. With this title and southern control, he goes to the Immortal Bastion for the rest of his plan.
+Guy du Bas-Tyra is one of Noxus' most brilliant military tacticians and ambitious noble with genuine intentions to save his homeland from decay. He believes that the costly war with Ionia is destroying Noxus and wants to replace Boram Darkwill as Grand General. When the opportunity presents itself through regional instability, he seizes it to demonstrate his leadership and expand his influence.
 
 ## Appearance & Mannerisms
 
@@ -19,53 +19,83 @@ Guy du Bas-Tyra is one of Noxus' most brilliant military tacticians and ambitiou
 
 ## Campaign Story
 
-### Southern Consolidation (Pre-campaign)
+### The Opportunity (Pre-Campaign/Chapter 1)
 
-Already gained ownership of Rockrund, Matthias works on Stonewall acquisition
+Rockrund rebellion and Quathala's instability provide perfect moment to expand influence while Darkwill is in Ionia
 
-### Stonewall Complication (Chapter 1-2)
+### Rockrund Consolidation (Background)
 
-Party gains control over Stonewall and refuses to give it up
+Helps suppress rebellion, gains respect and foothold in the region
 
-### Forced Takeover (Chapter 3)
+### Quathala Takeover (Chapter 2-3)
 
-Imprisons Roderick, forces him to appoint Guy as Lord Regent of Quathala
+"Stabilizes" Quathala while Roderick struggles with undermanned garrison and poor leadership - takes control of the region
 
-### The Noble Marriage Plot (Chapter 4-5)
+### The Immortal Bastion (Chapter 4-5)
 
-Goes to Immortal Bastion, wants to marry [[Anita conDoin]] to strengthen his position
+With expanded influence, heads to capital to marry [[Anita conDoin]] and cement his position as replacement for Darkwill
 
 ### Swain's Counter-Coup (Chapter 6)
 
 While Guy executes his plan, Swain stages his coup and becomes Grand General
 
-### Exile in Ionia (Future)
+### Exile in Ionia (Act 2)
 
 Guy becomes refugee in Ionia, begins his redemption arc
+
+## Guy's Strategic Plan
+
+**Phase 1 - Seizing the Opportunity:**
+- Rockrund rebellion provides chance to demonstrate leadership
+- Quathala's instability (undermanned garrison, weak baron) allows him to "stabilize" the region
+- NOT about specific territories - about showing he can lead where Darkwill cannot
+- Demonstrates strength and competence while Grand General is absent in Ionia
+
+**Phase 2 - Political Consolidation:**
+- With influence expanded through successful "stabilization," moves to Immortal Bastion
+- Marries Anita to strengthen political position and neutralize Erlind's influence
+- Positions himself as viable replacement for Darkwill
+- Uses legal mechanisms and political pressure rather than open rebellion
+
+**Phase 3 - The Ultimate Goal:**
+- Replace Darkwill as Grand General
+- End the costly Ionian war
+- Reform Noxus according to his vision
 
 ## Lore & Connections
 
 - [[Matthias Cray]] - His agent who manipulated Roderick
-- [[Roderick Voss]] - Victim of his destabilization plans
+- [[Roderick Voss]] - Victim of his consolidation strategy
 - [[Armand de Sevigny]] - His loyal companion
 - [[Anita conDoin]] - The woman he wanted to force into marriage
-- [[Basilich]] - His current domain and power base
-- [[Immortal Bastion]] - Where he will stage his coup
+- [[Basilich]] - His original domain and power base
+- [[Immortal Bastion]] - Where he will stage his political play
 - [[Swain]] - The one who will ultimately thwart his plan
 - [[Ionia]] - Where he will ultimately seek exile
 
 ## GM Notes
 
-**Guy's Strategic Plan:**
+**Guy's Philosophy:**
+- Genuinely believes Noxus needs better leadership
+- Sees the Ionian war as bleeding the nation dry
+- Willing to use any means necessary for what he sees as the greater good
+- Views individuals as pieces in a larger game
 
-**Phase 1 - Southern Consolidation:** Already gained control over Rockrund, used Matthias to claim Stonewall via manipulation of Roderick. These two territories would give him a claim over Quathala.
+**The Complication:**
+- Party's involvement is largely incidental to his plans
+- Anita's escape and Erlind's death are setbacks, but not deal-breakers
+- Swain's counter-coup is what ultimately defeats him, not the party's actions
 
-**Phase 2 - Political Maneuvering:** With Darkwill in Ionia, Erlind has command as highest ranking general. Guy's southern control would make him the most powerful commander, giving him effective command over the realm.
+**Redemption Arc Setup:**
+- His exile to Ionia will force him to live among people he once saw as conquered subjects
+- Must build genuine relationships rather than political alliances
+- Will prove his leadership capability through protection rather than domination
 
-**Phase 3 - Marriage Alliance:** Marrying Anita would strengthen his political position and neutralize Erlind's influence, clearing his path to Grand General.
-
-**The Complication:** Party's control over Stonewall forced him to a more direct approach - imprisoning Roderick and forcing him to appoint Guy as Lord Regent of Quathala.
+**Character Complexity:**
+- Not evil, but ruthlessly pragmatic
+- Destroys lives for political goals he genuinely believes are noble
+- His methods are terrible, but his diagnosis of Noxus' problems is accurate
 
 ---
 
-_Tags: #npc #noxian #noble #manipulator #enemy #politics #exile_
+_Tags: #npc #noxian #noble #manipulator #enemy #politics #exile #complex-villain_

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Characters/NPC's/Noxus/Roderick Voss.md",
+                "file": "1 - Characters/NPC's/Noxus/Nakor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roderick Voss"
+              "title": "Nakor"
             }
           }
         ]
@@ -178,13 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2a12de588d8c091",
+  "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "1 - Characters/NPC's/Important/Guy du Bas-Tyra.md",
+    "1 - Characters/NPC's/Noxus/Nakor.md",
+    "1 - Characters/NPC's/Noxus/Matthias Cray.md",
+    "1 - Characters/NPC's/Noxus/Roderick Voss.md",
     "3 - Lore/History/Guy and Borric.md",
     "Untitled 1.base",
-    "1 - Characters/NPC's/Noxus/Roderick Voss.md",
-    "1 - Characters/NPC's/Noxus/Matthias Cray.md",
-    "1 - Characters/NPC's/Important/Guy du Bas-Tyra.md",
     "2 - Locations/Noxus/Stonewall.md",
     "2 - Locations/Noxus/Quathala/Quathala Overview.md",
     "Quathala.md",
