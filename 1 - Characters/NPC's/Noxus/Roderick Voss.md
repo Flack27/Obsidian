@@ -66,11 +66,7 @@ While party is away, Guy completes his takeover of the region through "stabiliza
 
 **Tragic Figure:** Roderick represents the generational impact of his fathers' ancient rivalry. He is a victim of circumstances beyond his control - both his father's grief-driven abuse and Guy's political manipulation through Matthias.
 
-**The "Curse":** Roderick's paranoia isn't supernatural but psychological trauma from his father's emotional abuse. Borric's constant attempts to "toughen him up" broke something fundamental in Roderick's ability to trust and think clearly under pressure.
-
 **Beautification Obsession:** Stems from his love of art and beauty (the very things his father despised in him) combined with desperate need to prove his worth. He genuinely wants to make Quathala beautiful, but has no sense of priorities or economic reality.
-
-**Guy's Unknowing Cruelty:** Guy doesn't realize he's psychologically torturing the son of his former best friend. To Guy, Roderick is just another weak noble to be manipulated - he doesn't see Borric's broken boy grown up.
 
 **The Deed Decision:** Shows Roderick's poor judgment even when he thinks he's being clever. He genuinely believes giving away a "worthless destroyed village" while saving money for marble is brilliant strategy.
 
