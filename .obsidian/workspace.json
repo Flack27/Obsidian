@@ -11,14 +11,12 @@
             "id": "729e4e7335bccf4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4 - Sessions/Session 1.md",
-                "mode": "source",
-                "source": false
+                "file": "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Session 1"
+              "icon": "lucide-image",
+              "title": "Ruind Stonewall"
             }
           }
         ]
@@ -180,19 +178,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "729e4e7335bccf4d",
+  "active": "c2a12de588d8c091",
   "lastOpenFiles": [
+    "5 - Resources/Maps/Stonewall/Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
+    "5 - Resources/Maps/Quathala.png",
+    "5 - Resources/Maps/Stonewall/Ruind Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
+    "5 - Resources/Maps/Stonewall",
     "4 - Sessions/Session 0.md",
+    "4 - Sessions/Session Template.md",
+    "4 - Sessions/Session 1.md",
     "3 - Lore/Mysteries/Death system - Kindred's Bargain.md",
     "0 - Dashboard/Hints & Reveals.md",
     "0 - Dashboard/Timeline.md",
     "0 - Dashboard/Hints & reveals.md",
-    "4 - Sessions/Session 1.md",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "0 - Dashboard/Act 3 - Truth.md",
     "0 - Dashboard/Act 4 - Finale.md",
     "0 - Dashboard/Act 2 - Ionia.md",
-    "4 - Sessions/Session Template.md",
     "5 - Resources/Book References/Ashen-Shugar Vision 8.md",
     "5 - Resources/Book References/Ashen-Shugar Vision 7.md",
     "5 - Resources/Book References/Ashen-Shugar Vision 6.md",
@@ -207,10 +213,8 @@
     "5 - Resources/Book References/Ashen-Shugar Revelation.md",
     "1 - Characters/NPC's/Random NPC ideas.md",
     "2 - Locations/Noxus/Quathala/Quathala.md",
-    "2 - Locations/Noxus/Immortal Bastion/Immortal Bastion.md",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
-    "5 - Resources/Maps/Quathala.png",
     "Untitled.base",
     "5 - Resources/Maps/Stonewall.ds.crswap",
     "5 - Resources/Maps/Stonewall.ds",
@@ -218,7 +222,6 @@
     "2 - Locations/Noxus/Quathala",
     "Untitled.canvas",
     "1 - Characters/NPC's/Important Supporting",
-    "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_02_-_Silverthorn.epub",
-    "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_03_-_A_Darkness_at_Sethanon.epub"
+    "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_02_-_Silverthorn.epub"
   ]
 }
