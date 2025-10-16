@@ -6,3 +6,7 @@ location: Stonewall
 act: 1
 tags: [session, act1]
 ---
+
+TODO village managing system
+Map
+Actual session 1 prep
