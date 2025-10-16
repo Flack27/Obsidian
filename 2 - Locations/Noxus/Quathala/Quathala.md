@@ -4,9 +4,9 @@ Quathala is the seat of Baron [[Roderick Voss]]'s domain, a once-prosperous Noxi
 
 ## Locations
 ```dataview
-TABLE status, importance, "Quick Description" as notes
+TABLE status, importance
 FROM "2 - Locations/Noxus/Quathala"
-WHERE parent-location = "[[Quathala]]"
+WHERE parent-location = "[[Quathala]]" OR contains(file.path, "Quathala")
 SORT importance DESC, file.name ASC
 ```
 

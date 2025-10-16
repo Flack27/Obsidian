@@ -1,150 +1,141 @@
 
-## Chapter 1
+---
 
-### Key Events
+## Chapter 1: Hired by Roderick
 
-- **Baron Roderick's Hiring:** Young baron struggling to prove himself needs "outsiders" to investigate village crisis without requesting military aid
-- **Travel:** Road to Stonewall dangerous - region undermanned due to garrison reassignment to Ionian front
-- **Heavy storm:** Causes [[Amos Trask]]'s Ship to take heavy damage, ports in Stonewall hours before party arrives
-- **Stonewall Discovery:** Abandoned village, void creatures, mysterious altar
-- **Celesta's Deception:** [[Celesta]] asks for help, plays victim
-- **Bard Chime:** Occasionally pulses near the altar (sensing Celesta's temporal manipulations)
-- **Investigation Complete:** Party discovers mayor dead, village destroyed by void invasion
+### Must Happen
+- [ ] Meet Roderick in Quathala
+- [ ] Get hired for Stonewall investigation
+- [ ] Travel to Stonewall (dangerous roads)
+- [ ] Storm damages Amos's ship
+- [ ] Meet Celesta (she plays victim)
+- [ ] Investigate village, find mayor dead
 
-### Side Quests
-
-- **Carnage Demon:** Loose demon terrorizing countryside (500gp reward)
-- **Renegade Group:** Bandits causing problems in region - increased activity due to lack of patrols (200gp reward)
-- **Lost Memento:** Refugee asks party to retrieve dead husband's belonging from Stonewall (earns villager reputation for Chapter 2)
-
-### GM Notes
-
-- Establish Celesta as sympathetic figure party wants to help
-- Show consequences of undermanned region - bandits, lack of patrols, dangerous roads
-- Roderick is trying to handle crisis without admitting he needs military support
-- Matthias has been manipulating him to avoid requesting reinforcements ("shows weakness")
-- Original reward was likely gold, but Roderick wants to avoid paying
-
-## Chapter 2
-
-### Key Events
-
-- **Investigation Report:** Party returns to report village status - mayor dead, void creatures, village destroyed
-- **Roderick's "Brilliant" Idea:** Gives party ownership of Stonewall instead of gold payment
-  - Saves money for beautification projects
-  - Looks generous (giving land!)
-  - Village seems worthless anyway
-  - Matthias probably encourages this ("Very clever, my lord!")
-- **Villager Recruitment:** Convincing refugees to return and rebuild Stonewall
-- **Supply Gathering:** Organizing materials, protection, and leadership for new settlement
+### Optional
+- Side quest: Carnage Demon (500gp)
+- Side quest: Renegade bandits (200gp)
+- Side quest: Refugee's memento
 
 ### GM Notes
+- Establish Celesta as sympathetic
+- Show region is undermanned
+- Matthias manipulating Roderick subtly
 
-- Final peaceful moment before political chaos begins
-- Let party feel good about being heroes and community builders
-- Roderick thinks he's being clever avoiding payment
-- Party actually gains strategic asset (though this doesn't matter to Guy's larger plans)
-- Matthias continues manipulating Roderick's paranoia and poor judgment
+---
 
-## Chapter 3
+## Chapter 2: Return to Quathala
 
-### Key Events
+### Must Happen
+- [ ] Party returns to report findings
+- [ ] Roderick gives them the deed instead of gold
+- [ ] Party receives Stonewall ownership deed
 
-- **Guy's Consolidation:** While party escorts villagers, Guy completes his takeover of Quathala
-- **The Larger Picture:** Guy has been building influence through:
-  - Helping suppress Rockrund rebellion
-  - "Stabilizing" Quathala's undermanned region
-  - Demonstrating leadership while Darkwill is in Ionia
-- **Strategic Positioning:** Guy now has enough influence to make his move at the Immortal Bastion
-- **Departure for Capital:** Guy heads to Immortal Bastion to marry Anita and cement his position
-- **Roderick's Situation:** Fully under Guy's control, realizes too late he's been outmaneuvered
+### Must Happen (Recruiting Phase)
+- [ ] Party convinces refugees to return
+- [ ] Gather supplies for rebuilding
+- [ ] Begin escort mission back to Stonewall
 
-### GM Notes
-
-- Show Guy's competence and larger vision
-- Stonewall is irrelevant to his plans - he's thinking much bigger
-- Party realizes they're caught up in forces beyond their control
-- Make clear this was about influence and demonstrating strength, not specific territories
-
-## Chapter 4
-
-### Key Events
-
-- **Return to Quathala:** Party returns to find Guy's influence dominant in the region
-- **News of Marriage Plot:** Learning Guy's plan to force Anita into marriage
-- **Bennar's Connection:** Personal stakes revealed through PC's relationship with Anita
-- **Journey to Capital:** Dangerous trip to the Immortal Bastion
+### Optional
+- Party explores Quathala locations
+- Meet other Quathala NPCs
 
 ### GM Notes
+- Last peaceful moment before politics escalate
+- Let party feel good about being heroes
+- Roderick thinks he's clever avoiding payment
 
+---
+
+## Chapter 3: Guy's Move
+
+### Must Happen (Background - While Party Away)
+- [ ] Guy completes Quathala takeover
+- [ ] Guy departs for Immortal Bastion
+
+### Must Happen (Party Returns)
+- [ ] Party returns with refugees to Stonewall
+- [ ] News reaches them: Guy heading to capital
+- [ ] Party returns to Quathala
+- [ ] Party learns about Guy's plot and marriage plan
+
+### Optional
+- Refugees settle in Stonewall
+- Party makes improvements to village
+
+### GM Notes
+- Show Guy's competence and vision
+- Make clear Stonewall irrelevant to his plans
+- Build dread about Anita/Erlind situation
+
+---
+
+## Chapter 4: Journey to Capital
+
+### Must Happen
+- [ ] Party travels to Immortal Bastion
+- [ ] Arrive at the capital
+- [ ] Guy's declares martial law
+- [ ] Learn Erlind is imprisoned
+- [ ] Discover Anita is in hiding
+
+### Optional
+- Road encounters
+- Meet travelers with news
+- See effects of Guy's consolidation
+
+### GM Notes
 - Transition from regional to national politics
 - Make Guy's actions personal for Bennar
-- Build dread about Erlind's situation and health
-- Party understands they need to act, but are out of their depth
+- Build tension about timing
 
-## Chapter 5
+---
 
-### Key Events
+## Chapter 5: The Hunt
 
-- **Arrival:** Party enters the city
-- **Martial Law:** Erlind pays the [[Mockers]] to get Anita out of the city
-- **Guy Leaves:** For an uprising in the West that he has to crush
-- **Bennar Recognition:** Former soldier spots him, assumes Anita connection
-- **The Chase:** Running battles through capital streets
-- **Finding Anita:** Discovering her hiding place or capture by the [[Mockers]]
-- **Escape:** Escaping the city leaving Erlind to die as it's impossible to rescue him
+### Must Happen
+- [ ] Guy leaves for western uprising (takes Armand)
+- [ ] Matthias left in charge of finding Anita
+- [ ] Former soldier spots Bennar
+- [ ] Party finds Anita hiding place or mockers them
+- [ ] Mockers get involved (helping or hindering)
+- [ ] Party learns Erlind is dying in dungeon
+- [ ] Matthias's brutal tactics escalate
+
+### Optional
+- Street combat encounters
+- Interrogation scenes
+- Mockers recruitment/negotiation
+- Witnesses to chase
 
 ### GM Notes
-
 - High tension action sequence
-- Emotional gut punch with Erlind's death
-- Show how Guy's "political necessity" kills good people
-- Anita becomes ally but also grieving daughter
+- Show Matthias exceeding his authority
+- Make Erlind's situation impossible
+- Multiple failed rescue attempts = emotional impact
 
-## Chapter 6
+---
 
-### Key Events
+## Chapter 6: Ancient Escape
 
-- **Underground Escape:** Fleeing through forgotten tunnels beneath the Bastion
-- **Ancient Architecture:** Discovering pre-Noxian ruins and mysteries
-- **The Dying Dragon:** Meeting the ancient Silver Dragon who knows his time
-- **Final Conversation:** Dragon's wisdom about life, death, and legacy
-- **The Inheritance:** Dragon's hoard, including Ashen-Shugar's sword
-- **Bard Chime:** Glows faintly when Ashen-Shugar's sword is first touched (keeps glowing)
+### Must Happen
+- [ ] Erlind dies in dungeon (party learns too late)
+- [ ] Mockers guide party to escape route
+- [ ] Find dying dragon Rhuagh
+- [ ] Rhuagh gives party his treasures
+- [ ] Marduun receives Ashen-Shugar's sword and bonds
+- [ ] Bard Chime starts to faintly glow when sword encountered (revealed on rest)
+- [ ] Party escapes city through tunnels and returns to Quathala
+
+### Optional
+- Tunnel encounters/dangers ("cultists" one of which is midnight poem - lotm char from random npc ideas)
+- Discover other ancient mysteries
+- Find additional loot in hoard
 
 ### GM Notes
+- Emotional gut punch with Erlind's death
+- Shift from political to mystical themes
+- Dragon should be wise and accepting
+- Sword bonding subtle but immediate
+- First hint of cosmic scope
 
-- Shift from political to mystical/ancient themes
-- Dragon should be wise, melancholy, and genuinely dying of old age
-- First hint that forces older than nations are at work
-- Sword bonding begins immediately but subtly
 
-## Act 1 Resolution
-
-### What Party Achieves
-
-- Saved Stonewall and established it as their base
-- Rescued Anita from Guy's political scheme
-- Exposed Matthias and Guy's regional manipulation
-- Gained ancient artifacts and first connection to cosmic plot
-
-### What Party Loses
-
-- Erlind dies despite their efforts (shows cost of political games)
-- Guy escapes to continue his plans elsewhere
-- Roderick's domain destabilized, innocent people suffer
-- Peaceful life - they're now involved in forces beyond their control
-
-### What Guy Achieves (Before Swain's Counter)
-
-- Successfully consolidated power in Rockrund and Quathala
-- Demonstrated leadership and strength while Darkwill was absent
-- Gained significant political influence at the Immortal Bastion
-- Nearly succeeded in marrying Anita to cement his position
-
-### Setup for Act 2
-
-- Ashen-Shugar's sword begins showing visions
-- Guy flees toward Ionia after Swain's counter-coup
-- Party must pursue larger threats beyond regional politics
-- Ancient mysteries call them toward cosmic significance
