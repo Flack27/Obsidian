@@ -5,6 +5,10 @@ sub-region: Quathala
 importance: minor
 act-focus: 1
 status: thriving
-parent-location: "[[Quathala Overview]]"
-tags: [social-encounter, wealthy-district, act1-focus, information-source]
+parent-location: "[[Quathala]]"
+tags:
+  - social-encounter
+  - wealthy-district
+  - act1-focus
+  - information-source
 ---

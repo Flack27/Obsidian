@@ -5,7 +5,7 @@ sub-region: Quathala
 importance: minor
 act-focus: 1
 status: abandoned
-parent-location: "[[Quathala Overview]]"
+parent-location: "[[Quathala]]"
 tags:
   - political-intrigue
   - roderick-failure

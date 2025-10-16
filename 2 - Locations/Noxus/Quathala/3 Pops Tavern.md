@@ -5,7 +5,7 @@ sub-region: Quathala
 importance: minor
 act-focus: 1
 status: active
-parent-location: "[[Quathala Overview]]"
+parent-location: "[[Quathala]]"
 tags:
   - social-encounter
   - commoner-unrest

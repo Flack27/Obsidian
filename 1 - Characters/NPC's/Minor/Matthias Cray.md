@@ -11,7 +11,7 @@ tags: [guy-redemption, political-intrigue, act1-focus, noxian-politics, minor-vi
 
 ## Background
 
-Matthias Cray is an advisor who works as [[Guy du Bas-Tyra]]'s agent to destabilize [[Quathala Overview]] and make it vulnerable to Guy's takeover. He presents himself as Baron [[Roderick Voss]]'s "trusted" advisor, but manipulates the Baron's paranoia and poor judgment to ensure the region appears weak and mismanaged. After successfully completing his mission in Quathala, Guy promotes him and brings him to the Immortal Bastion as captain of his secret police.
+Matthias Cray is an advisor who works as [[Guy du Bas-Tyra]]'s agent to destabilize [[Quathala]] and make it vulnerable to Guy's takeover. He presents himself as Baron [[Roderick Voss]]'s "trusted" advisor, but manipulates the Baron's paranoia and poor judgment to ensure the region appears weak and mismanaged. After successfully completing his mission in Quathala, Guy promotes him and brings him to the Immortal Bastion as captain of his secret police.
 
 ## Appearance & Mannerisms
 
@@ -103,7 +103,7 @@ Either dies during the party's escape or survives but loses everything when Swai
 
 - [[Guy du Bas-Tyra]] - His master and patron
 - [[Roderick Voss]] - The Baron he manipulated
-- [[Quathala Overview]] - Where he earned his promotion
+- [[Quathala]] - Where he earned his promotion
 - [[Anita conDoin]] - His target at the Immortal Bastion
 - [[Armand de Sevigny]] - The honorable captain who goes with Guy (contrast to Matthias)
 - [[Erlind conDoin]] - May be involved in his imprisonment decisions

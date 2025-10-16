@@ -2,25 +2,22 @@
 
 Quathala is the seat of Baron [[Roderick Voss]]'s domain, a once-prosperous Noxian city now caught between ambitious beautification projects and growing civil unrest. The city showcases a jarring contrast between expensive marble facades and suffering citizens, reflecting the psychological state of its traumatized ruler.
 
-## Key Locations
+## Locations
+```dataview
+TABLE status, importance, "Quick Description" as notes
+FROM "2 - Locations/Noxus/Quathala"
+WHERE parent-location = "[[Quathala]]"
+SORT importance DESC, file.name ASC
+```
 
-**[[1-2 The Empty Garrison]]** - Abandoned military compound, symbol of Roderick's failed leadership
+## Active NPCs
+```dataview
+TABLE relationship, status, importance
+FROM "1 - Characters/NPC's"
+WHERE type = "npc" AND location = "Quathala"
+SORT importance DESC
+```
 
-**[[3 Pops Tavern]]** - Working-class tavern on the northern side, gathering place for complaints about city policies
-
-**[[4 Arcane Curiosities]]** - Small magic shop struggling to maintain clientele amid economic downturn
-
-**[[5 The Western Crown]]** - Once-popular tavern now failing as customers migrate to the eastern district
-
-**[[6 The Old Market]]** - Traditional commercial heart, now struggling under heavy taxation
-
-**[[7 The Marble Griffin]]** - Upscale tavern in the east, thriving due to proximity to beautification projects and wealthy visitors
-
-**[[8 The Marble Quarter]]** - Showcase district of Roderick's beautification obsession, completed and bankrupting the city
-
-**[[9 The Crafters' Quarter]]** - Industrial area outside city walls where marble is cut and beautification materials are processed
-
-**[[10 Duke's Manor]]** - Roderick's residence where Matthias pulls the strings behind closed doors
 ## Current Situation
 
 - **Beautification Obsession:** Marble construction and canal projects bankrupting the treasury while citizens struggle with high taxes

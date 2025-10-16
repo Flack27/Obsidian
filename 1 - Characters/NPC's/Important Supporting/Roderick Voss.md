@@ -31,7 +31,7 @@ Deep down he remains a good person who genuinely wants to help his people, but h
 
 ### The Beautiful Vision (Current Obsession)
 
-Roderick has become obsessively focused on transforming [[Quathala Overview]] into "the most beautiful city in Noxus." His grand vision includes covering all building walls with imported marble, creating elaborate gardens alongside every street, and installing a complex canal system flowing through the city. He plans to extend this beautification project to every town and settlement in his domain once Quathala is complete.
+Roderick has become obsessively focused on transforming [[Quathala]] into "the most beautiful city in Noxus." His grand vision includes covering all building walls with imported marble, creating elaborate gardens alongside every street, and installing a complex canal system flowing through the city. He plans to extend this beautification project to every town and settlement in his domain once Quathala is complete.
 
 ### Economic Crisis (Current Consequences)
 
@@ -61,7 +61,7 @@ While party is away, Guy completes his takeover of the region through "stabiliza
 
 - [[Guy du Bas-Tyra]] - His father's former friend turned enemy, now orchestrating his downfall (unknown to him)
 - [[Matthias Cray]] - His manipulative "advisor" who deliberately triggers his trauma responses
-- [[Quathala Overview]] - His inherited domain, forever tainted by his father's grief and broken dreams
+- [[Quathala]] - His inherited domain, forever tainted by his father's grief and broken dreams
 - [[Stonewall]] - The village he gave away thinking it was worthless
 - **Borric Voss** - His deceased father whose emotional abuse created his psychological damage
 - **Catherine** - The stepmother he never knew but whose loss shaped his entire family's tragedy

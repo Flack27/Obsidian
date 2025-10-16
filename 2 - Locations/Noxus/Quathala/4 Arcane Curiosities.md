@@ -5,6 +5,10 @@ sub-region: Quathala
 importance: minor
 act-focus: 1
 status: struggling
-parent-location: "[[Quathala Overview]]"
-tags: [magic-shop, merchant, act1-focus, economic-decline]
+parent-location: "[[Quathala]]"
+tags:
+  - magic-shop
+  - merchant
+  - act1-focus
+  - economic-decline
 ---
