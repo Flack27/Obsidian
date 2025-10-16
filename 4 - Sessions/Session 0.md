@@ -1,28 +1,74 @@
+## Core Rules
 
-# Rules
+### Critical Hits & Fails
 
-### DEATH
-Kindred???
-### CRITS 
-Critical success en critical fail maar wel dependant op de situatie, als iemand die niet goed is in iets een critical succes rolled is het een normale success
-### INSPIRATION 
-als je iets heel cools doet in comebat of roleplay kun je inspiration krijgen, dit is 1d6 die je bij een rol mag doen.
-### COMBAT CRITS
-Critical hits zijn de hoogste mogelijke damage + de normale roll
+**Critical Success (Natural 20):**
 
-### ROLEPLAY
-Misschien serieuzer nemen
-- Combat echt roleplayen
-- Echt een verschil tussen in character praten en gewoon, misschien in engels of voices
-- Praten tijdens combat of roleplay momenten proberen te vermijden
+- Effect depends on situation and character skill
+- An unskilled character's crit = normal success
+- A skilled character's crit = extraordinary success
 
-### MILESTONES
-character death = lager level. 
-Level up gebeurt op een goed moment.
-  
-### POTIONS
-Potion drinken is een bonus action
+**Critical Failure (Natural 1):**
 
-### SPELLS
-Teleportation spells bestaan niet op wish na
-Revival spells bestaan niet op Revivify, wish en True resurrection na
+- Situational consequences, not automatic catastrophe
+- An expert might just miss, a novice might hurt themselves
+
+### Critical Hit Damage
+
+Maximum possible damage + normal damage roll
+### Inspiration
+
+**Earned for:**
+
+- Exceptional roleplay moments
+- Creative problem-solving
+- Acting in character despite consequences
+
+**Benefit:** reroll any d20 roll
+
+### Potion Rules
+
+Drinking a potion is a **Bonus Action**
+
+### Spell Restrictions
+
+**Teleportation:**
+
+- Does not exist except through Wish spell
+
+**Revival:**
+
+- Only Revivify, Wish, and True Resurrection exist
+- Death system is different (but I won't tell)
+
+---
+
+## Roleplay Expectations
+
+### In-Character vs Out-of-Character
+
+**Please maintain clear distinction:**
+
+- Use different voices/accents for characters (if comfortable)?
+- Speak in English when in-character?
+- Use normal voice/Dutch for out-of-character discussion?
+- Minimize table talk during intense roleplay/combat
+
+### Combat Roleplay
+
+**Describe your actions cinematically:**
+
+- Not just "I attack with my sword"
+- But "I feint left then slash across their guard"
+- Makes combat more engaging and earns inspiration
+
+---
+## Leveling System
+
+### Milestone Progression
+
+**You level up when:**
+
+- I say you level up
+
+---
