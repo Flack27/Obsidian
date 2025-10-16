@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "8f0f85aef314a177",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,6 +182,8 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "3 - Lore/History/Guy and Borric.md",
     "1 - Characters/NPC's/Noxus/Roderick Voss.md",
     "1 - Characters/NPC's/Noxus/Matthias Cray.md",
     "1 - Characters/NPC's/Important/Guy du Bas-Tyra.md",
@@ -195,19 +208,16 @@
     "2 - Locations/Noxus/Quathala/6 The Old Market.md",
     "3 - Lore/Mysteries/Ashen-Shugar's Sword and Armor.md",
     "3 - Lore/History/Valheru.md",
-    "3 - Lore/History/Guy and Borric.md",
     "3 - Lore/Mysteries/Kythara the Divided.md",
     "5 - Resources/Maps/Quathala.png.0.pdnSave",
     "4 - Sessions/Session Template.md",
     "2 - Locations/Noxus/Quathala",
     "2 - Locations/Noxus/Immortal Bastion.md",
     "1 - Characters/NPC's/Noxus/Upright Man.md",
-    "1 - Characters/NPC's/Noxus/Anita conDoin.md",
     "Untitled.canvas",
     "1 - Characters/NPC's/Ionia",
     "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_02_-_Silverthorn.epub",
     "5 - Resources/Book References/Raymond_E_Feist_-_01_Riftwar_Saga_03_-_A_Darkness_at_Sethanon.epub",
-    "5 - Resources/Book References/Raymond_E_Feist_-_Riftwar_02_-_Magician-_Master.epub",
-    "5 - Resources/Book References/Raymond_E_Feist_-_Riftwar_01_-_Magician-_Apprentice.epub"
+    "5 - Resources/Book References/Raymond_E_Feist_-_Riftwar_02_-_Magician-_Master.epub"
   ]
 }
