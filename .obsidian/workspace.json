@@ -158,9 +158,62 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "4fcccb98fa011377",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_9ae9abaa9b48",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 15,
+                    "month": 0,
+                    "year": 989
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 24,
+                    "month": 1,
+                    "year": 989
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_18d89b6959e9",
+                "child": "ID_5ac89b3a498a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "d6f4bb3a07b9bee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7a91a9229f516f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_9ae9abaa9b48",
+                "id": "ID_5ac89b3a498a",
+                "parent": "ID_18d89b6959e9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,13 +230,17 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
-    "2 - Locations/Noxus/Stonewall/Stonewall.md",
+    "Untitled Kanban.md",
     "2 - Locations/Noxus/Stonewall/Village Managing system.md",
+    "Excalidraw/Drawing 2025-10-18 15.37.45.excalidraw.md",
+    "Excalidraw",
+    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "2 - Locations/Noxus/Stonewall",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "0 - Dashboard/Timeline.md",
@@ -217,15 +274,12 @@
     "0 - Dashboard/Act 1 - Stonewall.md",
     "2 - Locations/Noxus/Quathala/4 Arcane Curiosities.md",
     "5 - Resources/Book References/Ashen-Shugar Vision 1.md",
-    "5 - Resources/Book References/Ashen-Shugar Fusion.md",
-    "5 - Resources/Book References/Ashen-Shugar Revelation.md",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
     "Untitled.base",
     "5 - Resources/Maps/Stonewall.ds.crswap",
     "5 - Resources/Maps/Stonewall.ds",
     "5 - Resources/Maps/Quathala.png.0.pdnSave",
-    "2 - Locations/Noxus/Quathala",
     "Untitled.canvas"
   ]
 }

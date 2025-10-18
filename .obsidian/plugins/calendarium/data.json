@@ -1,0 +1,829 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Runeterra",
+      "description": "",
+      "id": "ID_9ae9abaa9b48",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Firstday",
+            "id": "ID_8ac9e9186829"
+          },
+          {
+            "type": "day",
+            "name": "Seconday",
+            "id": "ID_7afaca1b6bc8"
+          },
+          {
+            "type": "day",
+            "name": "Thirdday",
+            "id": "ID_3a39290a0a5b"
+          },
+          {
+            "type": "day",
+            "name": "Fourthday",
+            "id": "ID_386bb878baf9"
+          },
+          {
+            "type": "day",
+            "name": "Fifthday",
+            "id": "ID_cb78ba19b98b"
+          },
+          {
+            "type": "day",
+            "name": "Sixthday",
+            "id": "ID_89bb99b889d9"
+          },
+          {
+            "type": "day",
+            "name": "Seventhday",
+            "id": "ID_1a18c969998b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Early Spring",
+            "length": 28,
+            "id": "ID_b83afa9bdb38",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mid Spring",
+            "length": 29,
+            "id": "ID_9ac8283aea08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Late Spring",
+            "length": 28,
+            "id": "ID_185a6b2a586b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Early Summer",
+            "length": 28,
+            "id": "ID_6ba9aae8881b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mid Summer",
+            "length": 29,
+            "id": "ID_0ada2aea7bba",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Late Summer",
+            "length": 28,
+            "id": "ID_09bbcb3b0b29",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Early Fall",
+            "length": 28,
+            "id": "ID_3ba82b1be84b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mid Fall",
+            "length": 29,
+            "id": "ID_d898daa9298b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Late Fall",
+            "length": 28,
+            "id": "ID_bb99f8f9baa9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Early Winter",
+            "length": 28,
+            "id": "ID_ba386bb919da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mid Winter",
+            "length": 29,
+            "id": "ID_2b5b7ab88a19",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Late Winter",
+            "length": 28,
+            "id": "ID_8839eba99b68",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 28.3333,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_a9fb9908e89a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_288968083969",
+            "name": "Spring",
+            "type": "Periodic",
+            "color": "#2bb80f",
+            "duration": 85,
+            "peak": 0,
+            "weatherOffset": 40,
+            "weatherPeak": 5,
+            "kind": "Spring"
+          },
+          {
+            "id": "ID_4b5818ba7aeb",
+            "name": "Summer",
+            "type": "Periodic",
+            "color": "#f6d813",
+            "duration": 85,
+            "peak": 0,
+            "weatherOffset": 40,
+            "weatherPeak": 5,
+            "kind": "Summer"
+          },
+          {
+            "id": "ID_6929cb5beaca",
+            "name": "Fall",
+            "type": "Periodic",
+            "color": "#bb4b1b",
+            "duration": 85,
+            "peak": 0,
+            "weatherOffset": 40,
+            "weatherPeak": 5,
+            "kind": "Autumn"
+          },
+          {
+            "id": "ID_58791b7bea4a",
+            "name": "Winter",
+            "type": "Periodic",
+            "color": "#10d7e5",
+            "duration": 85,
+            "peak": 0,
+            "weatherOffset": 40,
+            "weatherPeak": 5,
+            "kind": "Winter"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": 55421877,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 7,
+        "month": 0,
+        "year": 989
+      },
+      "events": [
+        {
+          "name": "Spirit Blossom Festival",
+          "description": "Ionian celebration honoring spirits and ancestors, commemorating those who passed. Features spirit petals, ceremonial offerings, and remembering the deceased. Celebrated worldwide but originated in Ionia.",
+          "date": {
+            "month": 1,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_5a4a7988ead8",
+          "note": null,
+          "category": "ID_48a9aa79eb0b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Mid Summer's Day",
+          "description": "Summer solstice celebration marking the longest day of the year. Different regions celebrate differently - feasts, bonfires, and games are common across Runeterra.",
+          "date": {
+            "month": 4,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_a859996a1ad9",
+          "note": null,
+          "category": "ID_48a9aa79eb0b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Harvest Festival",
+          "description": "Celebration of autumn harvest and preparation for winter. Communities give thanks for the year's bounty, preserve food, and share feasts. Essential for agricultural communities.",
+          "date": {
+            "month": 7,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_791bb87bbb99",
+          "note": null,
+          "category": "ID_48a9aa79eb0b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Snowdown",
+          "description": "Winter solstice celebration with gift-giving, snowball fights, and festivities. Marks the longest night and the return of longer days. Especially significant in Freljord but celebrated globally.",
+          "date": {
+            "month": 10,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_98ea39c8d9fa",
+          "note": null,
+          "category": "ID_48a9aa79eb0b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Lunar Revel",
+          "description": "Lunar New Year celebration honoring ancestors and fresh starts. Features fireworks, dragon dances, traditional foods, and family gatherings. Primarily Ionian but observed in many regions.",
+          "date": {
+            "month": 11,
+            "day": 10,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_9979b918ba08",
+          "note": null,
+          "category": "ID_48a9aa79eb0b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Harrowing",
+          "description": "The Black Mist from Shadow Isles spreads furthest across Runeterra. Undead and restless spirits walk the world. Coastal regions especially affected. A time of fear and vigilance, not celebration.",
+          "date": {
+            "month": 8,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_9b2a79f99b09",
+          "note": null,
+          "category": "ID_48a9aa79eb0b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Noxian Victory Day",
+          "description": "Celebrates Noxian military victories and imperial expansion. Military parades, gladiatorial exhibitions, and public speeches glorifying Noxian strength. Conquered territories expected to participate with tributes.",
+          "date": {
+            "month": 0,
+            "day": 10,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_6979ba0b5b7b",
+          "note": null,
+          "category": "ID_a83a48a90a7b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Triumphal Games",
+          "description": "Week-long gladiatorial games and military displays showcasing Noxian martial prowess. Champions compete for glory and favor. Public entertainment featuring arena combat and tactical demonstrations.",
+          "date": {
+            "month": 0,
+            "day": 20,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_0bea3bfa3aa9",
+          "note": null,
+          "category": "ID_a83a48a90a7b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Founding Day",
+          "description": "Celebrates the founding of Demacia by refugees fleeing the Rune Wars. Patriotic celebration featuring military parades, speeches about justice and order, and ceremonies honoring the founding families.",
+          "date": {
+            "month": 0,
+            "day": 3,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_b98a5b0958d9",
+          "note": null,
+          "category": "ID_1a48e8ab7aa8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Day of Lights",
+          "description": "Religious celebration honoring Kayle and the principles of justice and righteousness. Lighting of sacred flames, prayers for guidance, and ceremonies at temples. Solemn yet hopeful occasion.",
+          "date": {
+            "month": 5,
+            "day": 13,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_c99aca9ae948",
+          "note": null,
+          "category": "ID_1a48e8ab7aa8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Festival of Fire",
+          "description": "Celebration of spiritual balance and the eternal flame. Features fire dancing, lantern releases, and spiritual cleansing rituals. Communities gather to honor the harmony between opposing forces.",
+          "date": {
+            "month": 2,
+            "day": 21,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_e9ab88eafa1a",
+          "note": null,
+          "category": "ID_193b3a6b78f8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Day of Remembrance",
+          "description": "Solemn day mourning victims of the Noxian invasion. Ceremonies honor those who fell defending their homeland. A day of reflection on the cost of war and the value of peace.",
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_c9e9584bd919",
+          "note": null,
+          "category": "ID_193b3a6b78f8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Long Night",
+          "description": "Celebration of surviving through the longest, darkest night of winter. Massive bonfires, storytelling of ancient legends, feasting, and demonstrations of strength. Proving the tribe's resilience against the cold.",
+          "date": {
+            "month": 1,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_3aab6b7b3a3b",
+          "note": null,
+          "category": "ID_f9db594b5b4a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "First Thaw",
+          "description": "Celebration when ice begins melting and spring arrives. Marks the end of harsh winter and beginning of hunting and planting season. Communities give thanks for surviving another winter.",
+          "date": {
+            "month": 0,
+            "day": 5,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_da995adad8a8",
+          "note": null,
+          "category": "ID_f9db594b5b4a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Hunt's End",
+          "description": "Celebration after the final major hunt before winter. Preserving meat, giving thanks to the spirits of hunted animals, and preparing stores for the long cold months ahead.",
+          "date": {
+            "month": 8,
+            "day": 20,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_6b79db39f9eb",
+          "note": null,
+          "category": "ID_f9db594b5b4a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Progress Day",
+          "description": "Showcasing newest hextech inventions and scientific achievements. Inventors present innovations, academies host exhibitions, and the city celebrates technological advancement and progress.",
+          "date": {
+            "month": 5,
+            "day": 20,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_4a78699bc93b",
+          "note": null,
+          "category": "ID_f9abc83af94b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ascension Day",
+          "description": "Ancient celebration of the Ascended warriors and the Sun Disc's power. Though the empire has fallen, some still observe this day honoring Shurima's former glory and the power of the sun.",
+          "date": {
+            "month": 3,
+            "day": 1,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_7a28f85a6988",
+          "note": null,
+          "category": "ID_7a086aa8bb9b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Water Festival",
+          "description": "Desert celebration honoring water sources - oases, wells, and rare rainfall. Communities give thanks for life-sustaining water and share stories of desert survival. Sacred to desert dwellers.",
+          "date": {
+            "month": 4,
+            "day": 20,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_b84b6b39c838",
+          "note": null,
+          "category": "ID_7a086aa8bb9b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Buhru Festival",
+          "description": "Serpent Isles celebration honoring Nagakabouros with tests of motion and spirit. Physical challenges, spiritual trials, and demonstrations that life is constant motion. Those who remain still invite death.",
+          "date": {
+            "month": 4,
+            "day": 4,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_0be9bb48c8bb",
+          "note": null,
+          "category": "ID_9a399baaebea",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Dead Pool Week",
+          "description": "Week-long gambling event where Bilgewater denizens bet on various deaths and outcomes. Darkly comedic tradition reflecting the port city's brutal humor and acceptance of mortality's randomness.",
+          "date": {
+            "month": 11,
+            "day": 4,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_7bbbb8aab80b",
+          "note": null,
+          "category": "ID_9a399baaebea",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Pyke Night",
+          "description": "Night of the darkest moon when nobody ventures near the water. Pyke, the Bloodharbor Ripper, is said to be most active. Superstitious observance born from fear of the undead slayer.",
+          "date": {
+            "month": 7,
+            "day": 29,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_49297929daeb",
+          "note": null,
+          "category": "ID_9a399baaebea",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Solari Solstice",
+          "description": "Solari celebration of summer solstice and the sun's peak power. Ra'Horak rituals, sun worship ceremonies, and demonstrations of solar magic. The Solari's most sacred day of the year.",
+          "date": {
+            "month": 4,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_58485928cbba",
+          "note": null,
+          "category": "ID_e9c9c91b5b29",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Lunari Moon Festival",
+          "description": "Secret Lunari celebration during winter's longest night when the moon is strongest. Hidden from persecuting Solari, worshippers honor the moon's power and beauty. Dangerous for participants if discovered.",
+          "date": {
+            "month": 10,
+            "day": 15,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_88491ab80848",
+          "note": null,
+          "category": "ID_e9c9c91b5b29",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Climbing Day",
+          "description": " Traditional day for attempting the ascent of Mount Targon. Weather is most favorable, and aspiring Aspects begin their potentially fatal climb. Communities bid farewell to climbers, knowing most won't return.",
+          "date": {
+            "month": 0,
+            "day": 10,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_680998c8a98b",
+          "note": null,
+          "category": "ID_e9c9c91b5b29",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Grey Day",
+          "description": "Brief moment acknowledging the sump levels and those who work in Zaun's depths. Rare cross-level solidarity where upper Zaun briefly recognizes the suffering below. Usually ignored by chem-barons.",
+          "date": {
+            "month": 10,
+            "day": 5,
+            "year": [
+              989,
+              null
+            ]
+          },
+          "id": "ID_f94a4b4b1b7b",
+          "note": null,
+          "category": "ID_2a5b999bc989",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_48a9aa79eb0b",
+          "color": "#ffffff",
+          "name": "Holidays"
+        },
+        {
+          "id": "ID_b9c8bb8b1a59",
+          "color": "#000000",
+          "name": "Events"
+        },
+        {
+          "id": "ID_193b3a6b78f8",
+          "color": "#e01f73",
+          "name": "Ionia"
+        },
+        {
+          "id": "ID_a83a48a90a7b",
+          "color": "#950404",
+          "name": "Noxus"
+        },
+        {
+          "id": "ID_1a48e8ab7aa8",
+          "color": "#3664ec",
+          "name": "Demacia"
+        },
+        {
+          "id": "ID_f9db594b5b4a",
+          "color": "#95d0e9",
+          "name": "Freljord"
+        },
+        {
+          "id": "ID_f9abc83af94b",
+          "color": "#c57d02",
+          "name": "Piltover"
+        },
+        {
+          "id": "ID_7a086aa8bb9b",
+          "color": "#ebd805",
+          "name": "Shurima"
+        },
+        {
+          "id": "ID_9a399baaebea",
+          "color": "#6f3906",
+          "name": "Bilgewater"
+        },
+        {
+          "id": "ID_e9c9c91b5b29",
+          "color": "#4a19be",
+          "name": "Targon"
+        },
+        {
+          "id": "ID_2a5b999bc989",
+          "color": "#226f06",
+          "name": "Zaun"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_9ae9abaa9b48",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
