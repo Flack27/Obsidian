@@ -1,4 +1,4 @@
-## Core Tracking
+## Core System
 
 ### **Resources to Track**
 
@@ -10,6 +10,14 @@
 6. **Workers Assigned / Available** (population % 2)
 
 ### **1 Turn = 1 Month**
+
+- Each month roll a d100 to see if a event happens
+
+### **Party Assistance**
+
+- If a party member assists in the construction of a building for the full duration the cost of that project is reduced by 50%
+	- 2 party members are needed to upgrade a building to level 2
+	- 3 party members are needed to upgrade a building to level 3
 
 ---
 ## Morale System

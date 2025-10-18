@@ -292,5 +292,7 @@ During Winter its always Blizzard
 
 ### 3-4. Major Attack
 
-- **Effect:** Flying creature assault the village
+- **Effect:** Flying creature attacks the village
 
+
+Im finishing up the Village managing system and the Village event system, im left with the major attack, id like this one to be a large flying creature attacking the village and the impact depends on that creature, so say a d6 1-2 a griffint 3-4 a wyvern 5-6 a dragon, and then varying impact, dragon would be massive destruction and all defenders dead unless the party is present. wyvern quite a few defenders and some destruction griffin a few defenders and a small amount of destruction smth like that
