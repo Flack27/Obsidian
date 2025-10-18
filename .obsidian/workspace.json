@@ -11,12 +11,14 @@
             "id": "729e4e7335bccf4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg"
+                "file": "3 - Lore/Events/Marble Moon Festival.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Autumn Stonewall"
+              "icon": "lucide-file",
+              "title": "Marble Moon Festival"
             }
           }
         ]
@@ -85,7 +87,6 @@
       {
         "id": "84383c57c97470ee",
         "type": "tabs",
-        "dimension": 42.7536231884058,
         "children": [
           {
             "id": "1b1494b74bce99c1",
@@ -166,11 +167,7 @@
               "state": {
                 "calendar": "ID_9ae9abaa9b48",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 15,
-                    "month": 0,
-                    "year": 989
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 24,
@@ -184,8 +181,7 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_18d89b6959e9",
-                "child": "ID_5ac89b3a498a"
+                "id": "ID_18d89b6959e9"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -199,11 +195,7 @@
               "state": {
                 "calendar": "ID_9ae9abaa9b48",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 4,
-                    "month": 4,
-                    "year": 989
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 7,
@@ -217,51 +209,61 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_a8590af91ba9",
-                "child": "ID_0ab939bbcb79"
+                "id": "ID_a8590af91ba9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "43114aa841b0e4db",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_9ae9abaa9b48",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 14,
+                    "month": 2,
+                    "year": 989
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 7,
+                    "month": 2,
+                    "year": 989
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_e94b0afb7939",
+                "child": "ID_9bebb97a5ae9"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
-        "id": "d6f4bb3a07b9bee0",
+        "id": "85b94085eca86f8d",
         "type": "tabs",
-        "dimension": 23.91304347826087,
         "children": [
           {
-            "id": "ce7a91a9229f516f",
+            "id": "3ef82e45562ef2ed",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_9ae9abaa9b48",
-                "id": "ID_5ac89b3a498a",
-                "parent": "ID_18d89b6959e9"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a1abdb1ead00ae59",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "63e0de7416b5fbcd",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "id": "ID_0ab939bbcb79",
-                "parent": "ID_a8590af91ba9"
+                "id": "ID_9bebb97a5ae9",
+                "parent": "ID_e94b0afb7939"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -290,15 +292,16 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
+    "3 - Lore/Events/Marble Moon Festival.md",
+    "Untitled Kanban.md",
     "5 - Resources/Maps/Stonewall/Void Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Ruined Stonewall.png",
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
-    "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
     "2 - Locations/Noxus/Stonewall/Village Managing system.md",
     "Excalidraw/Drawing 2025-10-18 15.37.45.excalidraw.md",
-    "Untitled Kanban.md",
     "Excalidraw",
     "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "2 - Locations/Noxus/Stonewall",
@@ -326,7 +329,6 @@
     "5 - Resources/Book References/Ashen-Shugar Vision 3.md",
     "5 - Resources/Book References/Ashen-Shugar Vision 2.md",
     "0 - Dashboard/Act 1 - Stonewall.md",
-    "2 - Locations/Noxus/Quathala/4 Arcane Curiosities.md",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
     "Untitled.base",

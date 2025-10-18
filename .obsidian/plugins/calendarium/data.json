@@ -356,7 +356,7 @@
           "name": "Noxian Victory Day",
           "description": "Celebrates Noxian military victories and imperial expansion. Military parades, gladiatorial exhibitions, and public speeches glorifying Noxian strength. Conquered territories expected to participate with tributes.",
           "date": {
-            "month": 0,
+            "month": 3,
             "day": 10,
             "year": [
               989,
@@ -376,7 +376,7 @@
           "name": "Triumphal Games",
           "description": "Week-long gladiatorial games and military displays showcasing Noxian martial prowess. Champions compete for glory and favor. Public entertainment featuring arena combat and tactical demonstrations.",
           "date": {
-            "month": 0,
+            "month": 3,
             "day": 20,
             "year": [
               989,
