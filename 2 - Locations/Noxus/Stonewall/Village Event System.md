@@ -292,7 +292,32 @@ During Winter its always Blizzard
 
 ### 3-4. Major Attack
 
-- **Effect:** Flying creature attacks the village
+**Roll a d6 to determine the attack**
+#### 1-2. Griffin Attack
 
+- **Effect:** Griffin attacks village
+- **Impact:**
+    - 1d4 Village Defenders die
+    - 1d6 villagers die
+    - 1d4 houses destroyed
+- **If Party Present:** Can fight Griffin (CR 2), reduce casualties by half if defeated quickly
 
-Im finishing up the Village managing system and the Village event system, im left with the major attack, id like this one to be a large flying creature attacking the village and the impact depends on that creature, so say a d6 1-2 a griffint 3-4 a wyvern 5-6 a dragon, and then varying impact, dragon would be massive destruction and all defenders dead unless the party is present. wyvern quite a few defenders and some destruction griffin a few defenders and a small amount of destruction smth like that
+#### 3-4. Wyvern Attack
+
+- **Effect:** Wyvern attacks village
+- **Impact:**
+    - 2d6 Village Defenders die
+    - 2d8 villagers die
+    - 1d6 houses destroyed
+    - One major facility damaged: Mine/Harbor/Farm (500 GP, 1 turn repair)
+- **If Party Present:** Can fight Wyvern (CR 6), reduce casualties by half if defeated quickly
+
+#### 5-6. Dragon Attack
+
+- **Effect:** Dragon attacks village
+- **Impact:**
+    - ALL Village Defenders die
+    - 3d12 villagers die
+    - 2d6 houses destroyed
+    - TWO major facilities severely damaged (Mine: 1,500 GP/3 turns, Harbor: 1,000 GP/2 turns, Farm: 800 GP/2 turns)
+- **If Party Present:** Can fight Dragon. reduce casualties by half if defeated quickly. If party flees: standard catastrophic damage applies.

@@ -251,11 +251,7 @@
               "state": {
                 "calendar": "ID_9ae9abaa9b48",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 5,
-                    "month": 5,
-                    "year": 989
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 7,
@@ -269,8 +265,7 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_2a4a8b294b99",
-                "child": "ID_cbf9aaaa489a"
+                "id": "ID_2a4a8b294b99"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -278,26 +273,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "15b27df5a3829fdb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8bf6d90742636c3a",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_9ae9abaa9b48",
-                "id": "ID_cbf9aaaa489a",
-                "parent": "ID_2a4a8b294b99"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -320,9 +295,9 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "2 - Locations/Noxus/Stonewall/Village Event System.md",
     "2 - Locations/Noxus/Stonewall/Village Managing system.md",
-    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "3 - Lore/Events/Swain Coup.md",
     "3 - Lore/Events/Marble Moon Festival.md",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
