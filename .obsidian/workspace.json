@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Locations/Noxus/Stonewall/Village Managing system.md",
+                "file": "2 - Locations/Noxus/Stonewall/Village Event System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Village Managing system"
+              "title": "Village Event System"
             }
           }
         ]
@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       },
       {
         "id": "15b27df5a3829fdb",
@@ -320,6 +320,9 @@
   },
   "active": "729e4e7335bccf4d",
   "lastOpenFiles": [
+    "2 - Locations/Noxus/Stonewall/Village Managing system.md",
+    "2 - Locations/Noxus/Stonewall/Village Event System.md",
+    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "3 - Lore/Events/Swain Coup.md",
     "3 - Lore/Events/Marble Moon Festival.md",
     "5 - Resources/Maps/Stonewall/Autumn Stonewall.jpg",
@@ -329,10 +332,8 @@
     "5 - Resources/Maps/Stonewall/Winter Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Stonewall.jpg",
     "5 - Resources/Maps/Stonewall/Rain Stonewall.jpg",
-    "2 - Locations/Noxus/Stonewall/Village Managing system.md",
     "Excalidraw/Drawing 2025-10-18 15.37.45.excalidraw.md",
     "Excalidraw",
-    "2 - Locations/Noxus/Stonewall/Stonewall.md",
     "2 - Locations/Noxus/Stonewall",
     "0 - Dashboard/🎲 Campaign Hub.md",
     "0 - Dashboard/Timeline.md",
@@ -357,7 +358,6 @@
     "5 - Resources/Book References/Ashen-Shugar Vision 4.md",
     "5 - Resources/Book References/Ashen-Shugar Vision 3.md",
     "5 - Resources/Book References/Ashen-Shugar Vision 2.md",
-    "0 - Dashboard/Act 1 - Stonewall.md",
     "2 - Locations/Noxus/Immortal Bastion",
     "Untitled 1.base",
     "Untitled.base",

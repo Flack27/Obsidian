@@ -152,7 +152,7 @@
 - **Laborers**: 5
 - **Requirements**: Dock repaired + Carpenter
 - **Production**: Can transport and sell marble blocks
-- **Ship**: Small Cargo Barge (capacity: 10 blocks)
+- **Ship**: Small Cargo Barge (capacity: 20 blocks)
 - **Trade Routes**:
     - **Quathala**: 1 turn round trip, base price + 1d10% markup
 - **Benefits**: Party can travel to Quathala on ship
@@ -371,3 +371,28 @@
     - Provides food for 30 villagers
 - **Benefits**:
     - Early warning system (hunters scout the area, advantage on spotting approaching threats)
+
+---
+
+### **BARRACKS**
+
+**Level 1: Basic Barracks**
+
+- **Cost**: 400 GP | **Time**: 2 turns
+- **Worker**: Guard Captain
+- **Combatants**: 10
+- **Requirements**: Carpenter + Blacksmith
+- **Benefits**:
+    - Houses 10 Bastion Defenders
+    - Organized defense structure
+
+**Level 2: Garrison**
+
+- **Cost**: 800 GP | **Time**: 3 turns
+- **Worker**: Guard Captain
+- **Combatants**: 25
+- **Requirements**: Carpenter (level 2) + Blacksmith (level 2)
+- **Benefits**:
+    - Houses 25 Bastion Defenders
+    - Professional military structure
+    - +1 Morale (strong sense of security)
