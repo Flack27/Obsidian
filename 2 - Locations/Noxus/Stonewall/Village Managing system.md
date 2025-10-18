@@ -44,16 +44,10 @@
 
 - **Housing**: Shortage (more people than capacity) **-1** / Surplus (10+ empty spaces) **+1**
 - **Food**: Shortage (can't feed everyone) **-1** / Surplus (can feed 10+ more) **+1**
-- **Leadership**: Leader absent 4+ turns **-1** / Leader present **+1**
+- **Leadership**: Leader absent 1+ turns **-1** / Leader present **+1**
 - **Security**: Recent loss defending village (last 4 turns) **-2** / Recent victory defending village **+2**
 
-**Party Actions** (DM discretion, temporary bonuses lasting 1-4 turns):
-
-- Host festival/celebration
-- Complete major project
-- Recruit important skilled worker
-- Save villagers from danger
-- Resolve major problem
+**Party Actions** (DM discretion, temporary bonuses lasting 1-4 turns)
 
 ---
 
@@ -74,33 +68,6 @@
 - **Cost**: 250 GP
 - **Requirement:** Carpenter (Level 2)
 - **Time**: 2 turns
-
----
-
-## Food System
-
-### **Food Cost**
-
-- Pay **10 GP per 10 villagers** per turn (rounded up) if farm can't feed everyone
-
-### **Farm Production** (Once built)
-
-- **Level 1 Farm**: Feeds 50 villagers
-- **Level 2 Farm**: Feeds 150 villagers
-- **Level 3 Farm**: Feeds 300 villagers
-
-### **Food Calculation**
-
-**Simple Check:**
-
-- Can farm feed everyone? If yes, no cost
-- Can farm feed 10+ more than population? +1 Morale
-- Can't feed everyone? -1 Morale AND pay 10 GP per 10 unfed villagers
-
-**Example**: 60 villagers, Level 1 farm
-
-- Farm feeds 50
-- 10 unfed: -1 Morale + pay 10 GP this turn
 
 ---
 
@@ -140,6 +107,8 @@
 
 ### **FARMLAND**
 
+##### Pay **10 GP per 10 villagers** per turn (rounded up) if farm can't feed everyone
+
 **Level 0: Overgrown** (Starting state)
 
 - Must clear fields (1 turn free labor or 200 GP + 1 turn)
@@ -157,7 +126,7 @@
 - **Cost**: 800 GP | **Time**: 4 turns
 - **Worker**: Experienced Farmer
 - **Laborers**: 10
-- **Requirements**: Blacksmith + Barn restored (300 GP)
+- **Requirements**: Blacksmith + Barn restored (300 GP + 1 turn)
 - **Production**: Feeds 150 villagers
 
 **Level 3: Commercial Farming**
