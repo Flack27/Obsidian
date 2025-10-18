@@ -360,7 +360,7 @@
 - **Benefits**:
     - Early warning system (hunters scout the area, advantage on spotting approaching threats)
 
-**Level 2: Hunter's Guild**
+**Level 2: Hunter's Lodge**
 
 - **Cost**: 500 GP | **Time**: 1 turn
 - **Worker**: Hunt Master
