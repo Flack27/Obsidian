@@ -731,6 +731,23 @@
             "order": ""
           },
           "type": "Recurring"
+        },
+        {
+          "name": "Swain Coup",
+          "description": "Swain enactes a coup within the Noxian capital, deposing and killing Boram Darkwill. In less than a year, Swain had ended the occupation of Ionia, vastly reduced the influence of the noble houses, and established the Trifarix council to govern the empire.",
+          "date": {
+            "month": 5,
+            "day": 5,
+            "year": 989
+          },
+          "id": "ID_09b83a7a68a8",
+          "note": "3 - Lore/Events/Swain Coup.md",
+          "category": "ID_b9c8bb8b1a59",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [
